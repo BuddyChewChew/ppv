@@ -20,17 +20,17 @@ ALLOWED_CATEGORIES = {
 }
 
 CATEGORY_LOGOS = {
-    "24/7 Streams": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/24-7.png?raw=true",
-    "Wrestling": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/wwe.png?raw=true",
-    "Football": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true",
-    "Basketball": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true",
-    "Baseball": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true",
-    "Combat Sports": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true",
-    "Motorsports": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true",
-    "Miscellaneous": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/24-7.png?raw=true",
-    "Boxing": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/boxing.png?raw=true",
-    "Darts": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts.png?raw=true",
-    "American Football": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true"
+    "24/7 Streams": "https://github.com/BuddyChewChew/ppv/blob/main/assets/24-7.png?raw=true",
+    "Wrestling": "https://github.com/BuddyChewChew/ppv/blob/main/assets/wwe.png?raw=true",
+    "Football": "https://github.com/BuddyChewChew/ppv/blob/main/assets/football.png?raw=true",
+    "Basketball": "https://github.com/BuddyChewChew/ppv/blob/main/assets/nba.png?raw=true",
+    "Baseball": "https://github.com/BuddyChewChew/ppv/blob/main/assets/baseball.png?raw=true",
+    "Combat Sports": "https://github.com/BuddyChewChew/ppv/blob/main/assets/mma.png?raw=true",
+    "Motorsports": "https://github.com/BuddyChewChew/ppv/blob/main/assets/f1.png?raw=true",
+    "Miscellaneous": "https://github.com/BuddyChewChew/ppv/blob/main/assets/24-7.png?raw=true",
+    "Boxing": "https://github.com/BuddyChewChew/ppv/blob/main/assets/boxing.png?raw=true",
+    "Darts": "https://github.com/BuddyChewChew/ppv/blob/main/assets/darts.png?raw=true",
+    "American Football": "https://github.com/BuddyChewChew/ppv/blob/main/assets/nfl.png?raw=true"
 }
 
 CATEGORY_TVG_IDS = {
