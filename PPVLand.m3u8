@@ -78,7 +78,7 @@ https://gg.poocloud.in/lasvegasraiders/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/cubs/index.m3u8
+https://gg.poocloud.in/cubs/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/baseball.png?raw=true" group-title="PPVLand - Baseball Action HD",Kansas City Royals vs. Philadelphia Phillies
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -173,7 +173,7 @@ https://gg.poocloud.in/bundesliga_leverkusen/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/ligue1_om/index.m3u8
+https://gg.poocloud.in/ligue1_om/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/football.png?raw=true" group-title="PPVLand - Global Football Streams",Sevilla FC vs. Elche CF
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -468,4 +468,4 @@ https://gg.poocloud.in/wrestling/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/southpark/index.m3u8
+https://gg.poocloud.in/southpark/tracks-v1a1/mono.ts.m3u8
