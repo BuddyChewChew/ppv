@@ -8,8 +8,8 @@ import platform
 API_URL = "https://ppv.to/api/streams"
 
 CUSTOM_HEADERS = [
-    '#EXTVLCOPT:http-origin=https://veplay.top',
-    '#EXTVLCOPT:http-referrer=https://veplay.top/',
+    '#EXTVLCOPT:http-origin=https://ppvs.su',
+    '#EXTVLCOPT:http-referrer=https://ppvs.su/',
     '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0'
 ]
 
@@ -65,8 +65,8 @@ async def check_m3u8_url(url):
     try:
         headers = {
             "User-Agent": "Mozilla/5.0",
-            "Referer": "https://veplay.top",
-            "Origin": "https://veplay.top"
+            "Referer": "https://ppvs.su",
+            "Origin": "https://ppvs.su"
         }
         timeout = aiohttp.ClientTimeout(total=15)
         async with aiohttp.ClientSession(timeout=timeout) as session:
