@@ -16,7 +16,7 @@ CUSTOM_HEADERS = [
 ALLOWED_CATEGORIES = {
     "24/7 Streams", "Wrestling", "Football", "Basketball", "Baseball",
     "Combat Sports", "Motorsports", "Miscellaneous", "Boxing", "Darts",
-    "American Football"
+    "American Football", "Ice Hockey"
 }
 
 CATEGORY_LOGOS = {
@@ -29,7 +29,8 @@ CATEGORY_LOGOS = {
     "Motorsports": "https://github.com/BuddyChewChew/ppv/blob/main/assets/f1.png?raw=true",
     "Miscellaneous": "https://github.com/BuddyChewChew/ppv/blob/main/assets/24-7.png?raw=true",
     "Boxing": "https://github.com/BuddyChewChew/ppv/blob/main/assets/boxing.png?raw=true",
-    "Darts": "https://github.com/BuddyChewChew/ppv/blob/main/assets/darts.png?raw=true",
+    "Ice Hockey": "https://github.com/BuddyChewChew/ppv/blob/main/assets/darts.png?raw=true",
+    "Darts": "https://github.com/BuddyChewChew/ppv/blob/main/assets/hockey.png?raw=true",
     "American Football": "https://github.com/BuddyChewChew/ppv/blob/main/assets/nfl.png?raw=true"
 }
 
@@ -43,6 +44,7 @@ CATEGORY_TVG_IDS = {
     "Motorsports": "Racing.Dummy.us",
     "Miscellaneous": "PPV.EVENTS.Dummy.us",
     "Boxing": "PPV.EVENTS.Dummy.us",
+    "Ice Hockey": "NHL.Hockey.Dummy.us",
     "Darts": "Darts.Dummy.us",
     "American Football": "NFL.Dummy.us"
 }
@@ -57,6 +59,7 @@ GROUP_RENAME_MAP = {
     "Motorsports": "PPVLand - Motorsport Live",
     "Miscellaneous": "PPVLand - Random Events",
     "Boxing": "PPVLand - Boxing",
+    "Ice Hockey": "PPVLand - Ice Hockey",
     "Darts": "PPVLand - Darts",
     "American Football": "PPVLand - NFL Action"
 }
