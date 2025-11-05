@@ -163,7 +163,7 @@ def build_m3u(streams, url_map):
 
         orig_category = s["category"].strip()
         final_group = GROUP_RENAME_MAP.get(orig_category, orig_category)
-        logo = CATEGORY_LOGOS.get(orig_category, "")
+        logo = s.get("poster") or CATEGORY_LOGOS.get(orig_category, "http://drewlive24.duckdns.org:9000/Logos/Default.png")
         tvg_id = CATEGORY_TVG_IDS.get(orig_category, "Sports.Dummy.us")
 
         # Use first valid URL only to avoid multiple entries with same name
