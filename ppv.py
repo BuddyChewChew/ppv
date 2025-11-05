@@ -29,8 +29,8 @@ CATEGORY_LOGOS = {
     "Motorsports": "https://github.com/BuddyChewChew/ppv/blob/main/assets/f1.png?raw=true",
     "Miscellaneous": "https://github.com/BuddyChewChew/ppv/blob/main/assets/24-7.png?raw=true",
     "Boxing": "https://github.com/BuddyChewChew/ppv/blob/main/assets/boxing.png?raw=true",
-    "Ice Hockey": "https://github.com/BuddyChewChew/ppv/blob/main/assets/darts.png?raw=true",
-    "Darts": "https://github.com/BuddyChewChew/ppv/blob/main/assets/hockey.png?raw=true",
+    "Darts": "https://github.com/BuddyChewChew/ppv/blob/main/assets/darts.png?raw=true",
+    "Ice Hockey": "https://github.com/BuddyChewChew/ppv/blob/main/assets/hockey.png?raw=true",
     "American Football": "https://github.com/BuddyChewChew/ppv/blob/main/assets/nfl.png?raw=true"
 }
 
