@@ -8,8 +8,8 @@ import platform
 API_URL = "https://ppv.to/api/streams"
 
 CUSTOM_HEADERS = [
-    '#EXTVLCOPT:http-origin=https://ppv.to',
-    '#EXTVLCOPT:http-referrer=https://ppv.to',
+    '#EXTVLCOPT:http-origin=https://ppvs.su',
+    '#EXTVLCOPT:http-referrer=https://ppvs.su',
     '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0'
 ]
 
@@ -68,8 +68,8 @@ async def check_m3u8_url(url):
     try:
         headers = {
             "User-Agent": "Mozilla/5.0",
-            "Referer": "https://ppv.to",
-            "Origin": "https://ppv.to"
+            "Referer": "https://ppvs.su",
+            "Origin": "https://ppvs.su"
         }
         timeout = aiohttp.ClientTimeout(total=15)
         async with aiohttp.ClientSession(timeout=timeout) as session:
@@ -109,7 +109,7 @@ async def grab_m3u8_from_iframe(page, iframe_url):
     print(f"🌐 Navigating to iframe: {iframe_url}")
 
     try:
-        await page.goto(iframe_url, timeout=15000)
+        timeout=30000, wait_until="domcontentloaded"
     except Exception as e:
         print(f"❌ Failed to load iframe: {e}")
         page.remove_listener("response", handle_response)
