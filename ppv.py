@@ -8,8 +8,8 @@ import platform
 API_URL = "https://ppv.to/api/streams"
 
 CUSTOM_HEADERS = [
-    '#EXTVLCOPT:http-origin=https://ppvs.su',
-    '#EXTVLCOPT:http-referrer=https://ppvs.su/',
+    '#EXTVLCOPT:http-origin=https://ppv.to',
+    '#EXTVLCOPT:http-referrer=https://ppv.to',
     '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0'
 ]
 
