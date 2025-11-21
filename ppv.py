@@ -68,8 +68,8 @@ async def check_m3u8_url(url):
     try:
         headers = {
             "User-Agent": "Mozilla/5.0",
-            "Referer": "https://ppvs.su",
-            "Origin": "https://ppvs.su"
+            "Referer": "https://ppv.to",
+            "Origin": "https://ppv.to"
         }
         timeout = aiohttp.ClientTimeout(total=15)
         async with aiohttp.ClientSession(timeout=timeout) as session:
