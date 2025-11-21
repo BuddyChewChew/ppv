@@ -109,7 +109,7 @@ async def grab_m3u8_from_iframe(page, iframe_url):
     print(f"🌐 Navigating to iframe: {iframe_url}")
 
     try:
-        timeout=30000, wait_until="domcontentloaded"
+        await page.goto(iframe_url, timeout=30000, wait_until="domcontentloaded")
     except Exception as e:
         print(f"❌ Failed to load iframe: {e}")
         page.remove_listener("response", handle_response)
