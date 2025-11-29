@@ -8,7 +8,7 @@ https://gg.poocloud.in/FOX/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/ESPN/index.m3u8
+https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/nfl.png?raw=true" group-title="PPVLand - NFL Action",Miami Hurricanes vs. Pittsburgh Panthers
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -33,12 +33,12 @@ https://gg.poocloud.in/ABC/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/ESPN/index.m3u8
+https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/nfl.png?raw=true" group-title="PPVLand - NFL Action",Virginia Tech Hokies vs. Virginia Cavaliers
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/ESPN/index.m3u8
+https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/nfl.png?raw=true" group-title="PPVLand - NFL Action",Alabama Crimson Tide vs. Auburn Tigers
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -53,7 +53,7 @@ https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/ESPN/index.m3u8
+https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/mma.png?raw=true" group-title="PPVLand - MMA & Fight Nights",Ben Whittaker vs. Benjamin Gavazi
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -63,17 +63,17 @@ https://gg.poocloud.in/daznboxing/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/seriea_juv/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/seriea_juv/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/football.png?raw=true" group-title="PPVLand - Global Football Streams",Everton vs. Newcastle United
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/epl_eve/index.m3u8
+https://gg.poocloud.in/epl_eve/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/football.png?raw=true" group-title="PPVLand - Global Football Streams",Leverkusen vs. Dortmund
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/bundesliga_b04/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/bundesliga_b04/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/football.png?raw=true" group-title="PPVLand - Global Football Streams",Levante UD vs. Athletic Club
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -83,27 +83,37 @@ https://gg.poocloud.in/ll_lev/index.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/ligue1_pfc/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ligue1_pfc/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/football.png?raw=true" group-title="PPVLand - Global Football Streams",Milan vs. Lazio
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/seriea_mil/index.m3u8
+https://gg.poocloud.in/seriea_mil/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/football.png?raw=true" group-title="PPVLand - Global Football Streams",Tottenham Hotspur vs. Fulham
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/epl_tot/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/epl_tot/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/football.png?raw=true" group-title="PPVLand - Global Football Streams",Atlético de Madrid vs. Real Oviedo
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://gg.poocloud.in/ll_atm/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/football.png?raw=true" group-title="PPVLand - Global Football Streams",OM vs. Toulouse FC
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/ligue1_mar/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/hockey.png?raw=true" group-title="PPVLand - Ice Hockey",Tampa Bay Lightning vs. New York Rangers
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://gg.poocloud.in/newyorkrangers/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/hockey.png?raw=true" group-title="PPVLand - Ice Hockey",Montreal Canadiens vs. Colorado Avalanche
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://gg.poocloud.in/coloradoavalanche/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/f1.png?raw=true" group-title="PPVLand - Motorsport Live",Qatar Grand Prix - Qualifying
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -118,13 +128,13 @@ https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/southpark/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/southpark/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/24-7.png?raw=true" group-title="PPVLand - Live Channels 24/7",24/7 COWS
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/cows/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/24-7.png?raw=true" group-title="PPVLand - Live Channels 24/7",24/7 Family​​​‌​‌​​​‌‌​​‌‌​‌‌​‌‌‌‌‌‌​​​​​‌​ Guy
+https://gg.poocloud.in/cows/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/24-7.png?raw=true" group-title="PPVLand - Live Channels 24/7",24/7 Family​​​​‌‌​‌​‌​‌​​‌‌‌​‌​​​‌​​​‌​​​​​ Guy
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
