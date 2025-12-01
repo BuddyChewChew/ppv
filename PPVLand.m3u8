@@ -1,34 +1,9 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/nba.png?raw=true" group-title="PPVLand - Basketball Hub",Boston Celtics vs. Cleveland Cavaliers
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/nfl.png?raw=true" group-title="PPVLand - NFL Action",Denver Broncos vs. Washington Commanders
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/nba.png?raw=true" group-title="PPVLand - Basketball Hub",Toronto Raptors vs. New York Knicks
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/nba_newyorkknicks/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/nba.png?raw=true" group-title="PPVLand - Basketball Hub",Atlanta Hawks vs. Philadelphia 76ers
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/nba_philadelphia76ers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/nba.png?raw=true" group-title="PPVLand - Basketball Hub",Oklahoma City Thunder vs. Portland Trail Blazers
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/nba_portlandtrailblazers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/nba.png?raw=true" group-title="PPVLand - Basketball Hub",San Antonio Spurs vs. Minnesota Timberwolves
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/nba_minnesotatimberwolves/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/hockey.png?raw=true" group-title="PPVLand - Ice Hockey",Ottawa Senators vs. Dallas Stars
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/dallasstars/index.m3u8
+https://gg.poocloud.in/washingtoncommanders/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/24-7.png?raw=true" group-title="PPVLand - Live Channels 24/7",24/7 South Park
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
@@ -39,7 +14,7 @@ https://gg.poocloud.in/southpark/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://gg.poocloud.in/cows/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/24-7.png?raw=true" group-title="PPVLand - Live Channels 24/7",24/7 Family​​​​​‌​​‌‌‌​‌‌​​‌​‌​‌‌​‌​​​‌​‌​‌ Guy
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/ppv/blob/main/assets/24-7.png?raw=true" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌‌​‌​​‌​‌​‌‌​‌‌​‌​​​‌‌​​‌​​‌​​ Guy
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
