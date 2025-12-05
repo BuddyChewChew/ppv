@@ -1,9 +1,8 @@
 import asyncio
 from playwright.async_api import async_playwright
 import aiohttp
-from datetime import datetime
-from zoneinfo import ZoneInfo
-import platform
+from datetime import datetime, timezone
+import html
 
 API_URL = "https://ppv.to/api/streams"
 
@@ -16,37 +15,23 @@ CUSTOM_HEADERS = [
 ALLOWED_CATEGORIES = {
     "24/7 Streams", "Wrestling", "Football", "Basketball", "Baseball",
     "Combat Sports", "Motorsports", "Miscellaneous", "Boxing", "Darts",
-    "American Football", "Ice Hockey"
+    "American Football", "Ice Hockey", "Cricket"
 }
 
 CATEGORY_LOGOS = {
-    "24/7 Streams": "https://github.com/BuddyChewChew/ppv/blob/main/assets/24-7.png?raw=true",
-    "Wrestling": "https://github.com/BuddyChewChew/ppv/blob/main/assets/wwe.png?raw=true",
-    "Football": "https://github.com/BuddyChewChew/ppv/blob/main/assets/football.png?raw=true",
-    "Basketball": "https://github.com/BuddyChewChew/ppv/blob/main/assets/nba.png?raw=true",
-    "Baseball": "https://github.com/BuddyChewChew/ppv/blob/main/assets/baseball.png?raw=true",
-    "Combat Sports": "https://github.com/BuddyChewChew/ppv/blob/main/assets/mma.png?raw=true",
-    "Motorsports": "https://github.com/BuddyChewChew/ppv/blob/main/assets/f1.png?raw=true",
-    "Miscellaneous": "https://github.com/BuddyChewChew/ppv/blob/main/assets/24-7.png?raw=true",
-    "Boxing": "https://github.com/BuddyChewChew/ppv/blob/main/assets/boxing.png?raw=true",
-    "Darts": "https://github.com/BuddyChewChew/ppv/blob/main/assets/darts.png?raw=true",
-    "Ice Hockey": "https://github.com/BuddyChewChew/ppv/blob/main/assets/hockey.png?raw=true",
-    "American Football": "https://github.com/BuddyChewChew/ppv/blob/main/assets/nfl.png?raw=true"
-}
-
-CATEGORY_TVG_IDS = {
-    "24/7 Streams": "24.7.Dummy.us",
-    "Football": "Soccer.Dummy.us",
-    "Wrestling": "PPV.EVENTS.Dummy.us",
-    "Combat Sports": "PPV.EVENTS.Dummy.us",
-    "Baseball": "MLB.Baseball.Dummy.us",
-    "Basketball": "Basketball.Dummy.us",
-    "Motorsports": "Racing.Dummy.us",
-    "Miscellaneous": "PPV.EVENTS.Dummy.us",
-    "Boxing": "PPV.EVENTS.Dummy.us",
-    "Ice Hockey": "NHL.Hockey.Dummy.us",
-    "Darts": "Darts.Dummy.us",
-    "American Football": "NFL.Dummy.us"
+    "24/7 Streams": "https://github.com/PaauullI/ppv/blob/main/assets/24-7.png?raw=true",
+    "Wrestling": "https://github.com/PaauullI/ppv/blob/main/assets/wwe.png?raw=true",
+    "Football": "https://github.com/PaauullI/ppv/blob/main/assets/football.png?raw=true",
+    "Basketball": "https://github.com/PaauullI/ppv/blob/main/assets/nba.png?raw=true",
+    "Baseball": "https://github.com/PaauullI/ppv/blob/main/assets/baseball.png?raw=true",
+    "Combat Sports": "https://github.com/PaauullI/ppv/blob/main/assets/mma.png?raw=true",
+    "Motorsports": "https://github.com/PaauullI/ppv/blob/main/assets/f1.png?raw=true",
+    "Miscellaneous": "https://github.com/PaauullI/ppv/blob/main/assets/24-7.png?raw=true",
+    "Boxing": "https://github.com/PaauullI/ppv/blob/main/assets/boxing.png?raw=true",
+    "Darts": "https://github.com/PaauullI/ppv/blob/main/assets/darts.png?raw=true",
+    "Ice Hockey": "https://github.com/PaauullI/ppv/blob/main/assets/hockey.png?raw=true",
+    "American Football": "https://github.com/PaauullI/ppv/blob/main/assets/nfl.png?raw=true",
+    "Cricket": "https://github.com/PaauullI/ppv/blob/main/assets/cricket.png?raw=true"
 }
 
 GROUP_RENAME_MAP = {
@@ -61,8 +46,56 @@ GROUP_RENAME_MAP = {
     "Boxing": "PPVLand - Boxing",
     "Ice Hockey": "PPVLand - Ice Hockey",
     "Darts": "PPVLand - Darts",
-    "American Football": "PPVLand - NFL Action"
+    "American Football": "PPVLand - NFL Action",
+    "Cricket": "PPVLand - Cricket"
 }
+
+URI_LEAGUE_MAP = {
+    "epl": "🇬🇧 Premier League",
+    "laliga": "🇪🇸 La Liga",
+    "bundesliga": "🇩🇪 Bundesliga",
+    "serie-a": "🇮🇹 Serie A",
+    "ligue-1": "🇫🇷 Ligue 1",
+    "ucl": "🇪🇺 UEFA Champions League",
+    "uel": "🇪🇺 UEFA Europa League",
+    "uefa-conference-league": "🇪🇺 UEFA Conference League",
+    "eredivisie": "🇳🇱 Eredivisie",
+    "mls": "🇺🇸 MLS",
+    "fa-cup": "🇬🇧 FA Cup",
+    "nfl": "🏈 NFL",
+    "nba": "🏀 NBA",
+    "nhl": "🏒 NHL",
+    "mlb": "⚾ MLB",
+    "cfb": "🏈 NCAA College Football",
+    "wnba": "🏀 WNBA",
+    "f1": "🏎️ Formula 1",
+    "formula-1": "🏎️ Formula 1",
+    "motogp": "🏍️ MotoGP",
+    "nascar": "🏁 NASCAR",
+    "ufc": "🥊 UFC",
+    "boxing": "🥊 Boxing",
+    "wwe": "🤼 WWE",
+    "aew": "🤼 AEW",
+    "darts": "🎯 Darts",
+    "snooker": "🎱 Snooker",
+    "tennis": "🎾 Tennis",
+    "rugby": "🏉 Rugby",
+    "cricket": "🏏 Cricket"
+}
+
+def to_xml_date(timestamp):
+    """Convert Unix-Timestamp to XMLTV (YYYYMMDDhhmmss +0000)"""
+    if not timestamp:
+        return ""
+    dt = datetime.fromtimestamp(int(timestamp), tz=timezone.utc)
+    return dt.strftime("%Y%m%d%H%M%S +0000")
+
+def escape_xml(text):
+    if not text: 
+        return ""
+    return html.escape(str(text))
+
+# --- Core Logic ---
 
 async def check_m3u8_url(url):
     try:
@@ -90,8 +123,6 @@ async def get_streams():
             async with session.get(API_URL) as resp:
                 print(f"🔍 Response status: {resp.status}")
                 if resp.status != 200:
-                    error_text = await resp.text()
-                    print(f"❌ Error response: {error_text[:500]}")
                     return None
                 return await resp.json()
     except Exception as e:
@@ -144,36 +175,97 @@ async def grab_m3u8_from_iframe(page, iframe_url):
             print(f"❌ Invalid or unreachable URL: {url}")
     return valid_urls
 
+def get_group_title(stream):
+    orig_category = stream["category"].strip()
+    uri_name = stream.get("uri_name", "").lower()
+    
+    uri_parts = uri_name.split('/')
+    if uri_parts and uri_parts[0]:
+        league_key = uri_parts[0]
+        if league_key in URI_LEAGUE_MAP:
+            return URI_LEAGUE_MAP[league_key]
+        
+        if orig_category in ["Football", "Basketball", "American Football", "Ice Hockey", "Baseball", "Motorsports", "Combat Sports"]:
+             return league_key.replace("-", " ").upper()
+
+    return GROUP_RENAME_MAP.get(orig_category, orig_category)
+
 def build_m3u(streams, url_map):
-    lines = ['#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"']
-    seen_names = set()
+    lines = ['#EXTM3U url-tvg="PPVLand.xml"']
+    
+    seen_ids = set()
 
     for s in streams:
-        name_lower = s["name"].strip().lower()
-        if name_lower in seen_names:
-            continue  # skip duplicates by display name
-        seen_names.add(name_lower)
-
         unique_key = f"{s['name']}::{s['category']}::{s['iframe']}"
         urls = url_map.get(unique_key, [])
 
         if not urls:
-            print(f"⚠️ No working URLs for {s['name']}")
             continue
+        
+        if s['id'] in seen_ids:
+            continue
+        seen_ids.add(s['id'])
 
+        final_group = get_group_title(s)
         orig_category = s["category"].strip()
-        final_group = GROUP_RENAME_MAP.get(orig_category, orig_category)
-        logo = CATEGORY_LOGOS.get(orig_category, "")
-        tvg_id = CATEGORY_TVG_IDS.get(orig_category, "Sports.Dummy.us")
+        
+        api_poster = s.get("poster")
+        logo = api_poster.strip() if api_poster and api_poster.strip() else CATEGORY_LOGOS.get(orig_category, "")
+        
+        tvg_id = f"ppv-{s['id']}"
 
-        # Use first valid URL only to avoid multiple entries with same name
         url = next(iter(urls))
-
-        lines.append(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo}" group-title="{final_group}",{s["name"]}')
+        
+        title = s["name"]
+        
+        lines.append(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{title}" tvg-logo="{logo}" group-title="{final_group}",{title}')
         lines.extend(CUSTOM_HEADERS)
         lines.append(url)
 
     return "\n".join(lines)
+
+def build_epg(streams, url_map):
+    xml_lines = ['<?xml version="1.0" encoding="UTF-8"?>', '<tv>']
+      
+    processed_ids = set()
+
+    for s in streams:
+        unique_key = f"{s['name']}::{s['category']}::{s['iframe']}"
+        if unique_key not in url_map or not url_map[unique_key]:
+            continue
+
+        if s['id'] in processed_ids:
+            continue
+        processed_ids.add(s['id'])
+
+        channel_id = f"ppv-{s['id']}"
+        display_name = escape_xml(s['name'])
+        
+        xml_lines.append(f'  <channel id="{channel_id}">')
+        xml_lines.append(f'    <display-name>{display_name}</display-name>')
+        xml_lines.append(f'  </channel>')
+
+        start_time = to_xml_date(s.get('starts_at'))
+        end_time = to_xml_date(s.get('ends_at'))
+        
+        # Fallback
+        if not end_time and s.get('starts_at'):
+             end_time = to_xml_date(s.get('starts_at') + (3 * 3600))
+
+        poster = escape_xml(s.get('poster', ''))
+        category = escape_xml(s.get('category', ''))
+        
+        if start_time and end_time:
+            xml_lines.append(f'  <programme start="{start_time}" stop="{end_time}" channel="{channel_id}">')
+            xml_lines.append(f'    <title lang="en">{display_name}</title>')
+            xml_lines.append(f'    <sub-title>{category}</sub-title>')
+            xml_lines.append(f'    <category>{category}</category>')
+            if poster:
+                xml_lines.append(f'    <icon src="{poster}" />')
+            xml_lines.append(f'  </programme>')
+
+    xml_lines.append('</tv>')
+    return "\n".join(xml_lines)
 
 async def main():
     print("🚀 Starting PPV Stream Fetcher")
@@ -181,8 +273,6 @@ async def main():
     
     if not data or 'streams' not in data:
         print("❌ No valid data received from the API")
-        if data:
-            print(f"API Response: {data}")
         return
         
     print(f"✅ Found {len(data['streams'])} categories")
@@ -194,11 +284,20 @@ async def main():
             continue
         for stream in category.get("streams", []):
             iframe = stream.get("iframe")
-            name = stream.get("name", "Unnamed Event")
             if iframe:
-                streams.append({"name": name, "iframe": iframe, "category": cat})
+                streams.append({
+                    "id": stream.get("id"),
+                    "name": stream.get("name", "Unnamed Event"), 
+                    "iframe": iframe, 
+                    "category": cat, 
+                    "poster": stream.get("poster"),
+                    "uri_name": stream.get("uri_name"),
+                    "starts_at": stream.get("starts_at"),
+                    "ends_at": stream.get("ends_at"),
+                    "description": stream.get("description", "")
+                })
 
-    # Deduplicate streams by name (case-insensitive) before scraping
+    # Deduping Logic
     seen_names = set()
     deduped_streams = []
     for s in streams:
@@ -209,13 +308,10 @@ async def main():
     streams = deduped_streams
 
     if not streams:
-        print("🚫 No valid streams found in the API response.")
-        if 'streams' in data:
-            print(f"Raw categories found: {[cat.get('category', 'Unknown') for cat in data['streams']]}")
+        print("🚫 No valid streams found.")
         return
     
-    print(f"🔍 Found {len(streams)} unique streams to process" + 
-          f" from {len({s['category'] for s in streams})} categories")
+    print(f"🔍 Found {len(streams)} unique streams from {len({s['category'] for s in streams})} categories")
 
     async with async_playwright() as p:
         browser = await p.firefox.launch(headless=True)
@@ -228,17 +324,22 @@ async def main():
             print(f"\n🔍 Scraping: {s['name']} ({s['category']})")
             urls = await grab_m3u8_from_iframe(page, s["iframe"])
             if urls:
-                print(f"✅ Got {len(urls)} stream(s) for {s['name']}")
+                print(f"✅ Got {len(urls)} stream(s)")
             url_map[key] = urls
 
         await browser.close()
 
-    print("\n💾 Writing final playlist to PPVLand.m3u8 ...")
+    print("\n💾 Writing playlist and EPG...")
+    
     playlist = build_m3u(streams, url_map)
     with open("PPVLand.m3u8", "w", encoding="utf-8") as f:
         f.write(playlist)
+        
+    epg_xml = build_epg(streams, url_map)
+    with open("PPVLand.xml", "w", encoding="utf-8") as f:
+        f.write(epg_xml)
 
-    print(f"✅ Done! Playlist saved as PPVLand.m3u8 at {datetime.utcnow().isoformat()} UTC")
+    print(f"✅ Done! Saved M3U8 and XML at {datetime.now(timezone.utc).isoformat()} UTC")
 
 if __name__ == "__main__":
     asyncio.run(main())
