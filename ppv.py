@@ -5,7 +5,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 import platform
 
-API_URL = "https://ppv.to/api/streams"
+API_URL = "https://api.ppv.to/api/streams"
 
 CUSTOM_HEADERS = [
     '#EXTVLCOPT:http-origin=https://ppvs.su',
