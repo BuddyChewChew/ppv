@@ -4,8 +4,8 @@
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://gg.poocloud.in/ABC/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14415" tvg-name="Cologne vs. St. Pauli" tvg-logo="https://api.ppv.to/assets/thumb/ed0ef226b271fca14eeea02729239dc0-thumbnail.jpg" group-title="🇩🇪 Bundesliga",Cologne vs. St. Pauli
+#EXTINF:-1 tvg-id="ppv-14416" tvg-name="Stuttgart vs. Bayern" tvg-logo="https://api.ppv.to/assets/thumb/0556df90068e70e28351bd888c3c9dec-thumbnail.jpg" group-title="🇩🇪 Bundesliga",Stuttgart vs. Bayern
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://gg.poocloud.in/bundesliga_koe/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/bundesliga_vfb/index.m3u8
