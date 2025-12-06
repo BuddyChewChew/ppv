@@ -9,13 +9,13 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/0b554946e401035aed44cfcbe5e95102-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14416">
-    <display-name>Stuttgart vs. Bayern</display-name>
+  <channel id="ppv-14398">
+    <display-name>Leeds United vs. Liverpool</display-name>
   </channel>
-  <programme start="20251206143000 +0000" stop="20251206170000 +0000" channel="ppv-14416">
-    <title lang="en">Stuttgart vs. Bayern</title>
+  <programme start="20251206173000 +0000" stop="20251206200000 +0000" channel="ppv-14398">
+    <title lang="en">Leeds United vs. Liverpool</title>
     <sub-title>Football</sub-title>
     <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/0556df90068e70e28351bd888c3c9dec-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/29b31ab38297ee24816f570595f73271-thumbnail.jpg" />
   </programme>
 </tv>
