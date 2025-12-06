@@ -9,13 +9,13 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/0b554946e401035aed44cfcbe5e95102-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-14398">
-    <display-name>Leeds United vs. Liverpool</display-name>
+  <channel id="ppv-14418">
+    <display-name>RB Leipzig vs. Frankfurt</display-name>
   </channel>
-  <programme start="20251206173000 +0000" stop="20251206200000 +0000" channel="ppv-14398">
-    <title lang="en">Leeds United vs. Liverpool</title>
+  <programme start="20251206173000 +0000" stop="20251206200000 +0000" channel="ppv-14418">
+    <title lang="en">RB Leipzig vs. Frankfurt</title>
     <sub-title>Football</sub-title>
     <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/29b31ab38297ee24816f570595f73271-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/ac4357174c8f739bea6359d82e8e2e86-thumbnail.jpg" />
   </programme>
 </tv>
