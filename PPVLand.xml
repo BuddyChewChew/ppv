@@ -9,13 +9,13 @@
     <category>American Football</category>
     <icon src="https://api.ppv.to/assets/thumb/0b554946e401035aed44cfcbe5e95102-thumbnail.jpg" />
   </programme>
-  <channel id="ppv-12822">
-    <display-name>Goal Arena</display-name>
+  <channel id="ppv-14415">
+    <display-name>Cologne vs. St. Pauli</display-name>
   </channel>
-  <programme start="20251206143000 +0000" stop="20251206173000 +0000" channel="ppv-12822">
-    <title lang="en">Goal Arena</title>
+  <programme start="20251206143000 +0000" stop="20251206170000 +0000" channel="ppv-14415">
+    <title lang="en">Cologne vs. St. Pauli</title>
     <sub-title>Football</sub-title>
     <category>Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/dd9a64549d7fa6bd306566b0093c32ba-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/ed0ef226b271fca14eeea02729239dc0-thumbnail.jpg" />
   </programme>
 </tv>
