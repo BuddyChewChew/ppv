@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ppv-14596">
+    <display-name>Troy Trojans vs. James Madison Dukes</display-name>
+  </channel>
+  <programme start="20251206000000 +0000" stop="20251206033000 +0000" channel="ppv-14596">
+    <title lang="en">Troy Trojans vs. James Madison Dukes</title>
+    <sub-title>American Football</sub-title>
+    <category>American Football</category>
+    <icon src="https://api.ppv.to/assets/thumb/ee83d32ebf117f8c145c0051d9918672-thumbnail.jpg" />
+  </programme>
 </tv>
