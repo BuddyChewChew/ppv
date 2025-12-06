@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ppv-14597">
-    <display-name>North Texas Mean Green vs. Tulane Green Wave</display-name>
+  <channel id="ppv-14598">
+    <display-name>BYU Cougars vs. Texas Tech Red Raiders</display-name>
   </channel>
-  <programme start="20251206010000 +0000" stop="20251206043000 +0000" channel="ppv-14597">
-    <title lang="en">North Texas Mean Green vs. Tulane Green Wave</title>
+  <programme start="20251206170000 +0000" stop="20251206203000 +0000" channel="ppv-14598">
+    <title lang="en">BYU Cougars vs. Texas Tech Red Raiders</title>
     <sub-title>American Football</sub-title>
     <category>American Football</category>
-    <icon src="https://api.ppv.to/assets/thumb/243177bfd6cdf09e2d0d614277544bb0-thumbnail.jpg" />
+    <icon src="https://api.ppv.to/assets/thumb/0b554946e401035aed44cfcbe5e95102-thumbnail.jpg" />
   </programme>
 </tv>
