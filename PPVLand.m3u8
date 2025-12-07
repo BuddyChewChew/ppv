@@ -7,7 +7,7 @@ https://gg.poocloud.in/southpark/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/cows/index.m3u8
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌‌​​‌​​‌‌‌​‌‌​‌‌​​​​‌‌ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​‌​‌‌​​‌​‌‌​​‌​​‌‌‌​‌‌​‌‌​​​​‌‌ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​​‌​‌​​‌​‌​‌​​​​‌‌​‌‌‌​‌​‌‌​‌​‌ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​​‌​‌​​‌​‌​‌​​​​‌‌​‌‌‌​‌​‌‌​‌​‌ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/familyguy/index.m3u8
@@ -51,14 +51,6 @@ https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/baltimoreravens/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14681" tvg-name="Colorado Avalanche vs. Philadelphia Flyers" tvg-logo="https://api.ppv.to/assets/thumb/3708519ce52854552149a16a232c4b95-thumbnail.jpg" group-title="PPVLand - Live Now",Colorado Avalanche vs. Philadelphia Flyers - 01:00 PM ET / 11:00 AM MT / 18:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/philadelphiaflyers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14707" tvg-name="Colorado Avalanche vs. Philadelphia Flyers" tvg-logo="https://api.ppv.to/assets/thumb/dcfd8ac3a3ef4818c6e9e58c33f81746-thumbnail.jpg" group-title="PPVLand - Live Now",Colorado Avalanche vs. Philadelphia Flyers - 01:00 PM ET / 11:00 AM MT / 18:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/philadelphiaflyers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14427" tvg-name="Napoli vs. Juventus" tvg-logo="https://api.ppv.to/assets/thumb/1ec6366647755f299eef3bf02abba79e-thumbnail.jpg" group-title="PPVLand - Live Now",Napoli vs. Juventus - 02:45 PM ET / 12:45 PM MT / 19:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -71,11 +63,11 @@ https://gg.poocloud.in/ligue1_lor/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_rma/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14683" tvg-name="Boston Celtics vs. Toronto Raptors" tvg-logo="https://api.ppv.to/assets/thumb/52da4d193a11ada97557ded7a453ed66-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Boston Celtics vs. Toronto Raptors - 03:30 PM ET / 01:30 PM MT / 20:30 UK
+#EXTINF:-1 tvg-id="ppv-14683" tvg-name="Boston Celtics vs. Toronto Raptors" tvg-logo="https://api.ppv.to/assets/thumb/52da4d193a11ada97557ded7a453ed66-thumbnail.jpg" group-title="PPVLand - Live Now",Boston Celtics vs. Toronto Raptors - 03:30 PM ET / 01:30 PM MT / 20:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/torontoraptors/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14660" tvg-name="Denver Broncos vs. Las Vegas Raiders" tvg-logo="https://api.ppv.to/assets/thumb/0700ef0cc6893c253bf963421302d63a-thumbnail.jpg" group-title="PPVLand - NFL Action",Denver Broncos vs. Las Vegas Raiders - 04:05 PM ET / 02:05 PM MT / 21:05 UK
+#EXTINF:-1 tvg-id="ppv-14660" tvg-name="Denver Broncos vs. Las Vegas Raiders" tvg-logo="https://api.ppv.to/assets/thumb/0700ef0cc6893c253bf963421302d63a-thumbnail.jpg" group-title="PPVLand - Live Now",Denver Broncos vs. Las Vegas Raiders - 04:05 PM ET / 02:05 PM MT / 21:05 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/lasvegasraiders/index.m3u8
