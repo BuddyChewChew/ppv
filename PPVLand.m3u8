@@ -7,7 +7,7 @@ https://gg.poocloud.in/southpark/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/cows/index.m3u8
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​​‌​‌​​‌​‌​‌​​​​‌‌​‌‌‌​‌​‌‌​‌​‌ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​​‌​‌​​‌​‌​‌​​​​‌‌​‌‌‌​‌​‌‌​‌​‌ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​‌​​‌‌​‌​​​​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​‌​​‌‌​‌​​​​ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/familyguy/index.m3u8
@@ -19,38 +19,6 @@ https://gg.poocloud.in/thesimpsons/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/redzone/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14652" tvg-name="Seattle Seahawks vs. Atlanta Falcons" tvg-logo="https://api.ppv.to/assets/thumb/4febfbc95bcf7683805fa6e94f7a27d3-thumbnail.jpg" group-title="PPVLand - Live Now",Seattle Seahawks vs. Atlanta Falcons - 01:00 PM ET / 11:00 AM MT / 18:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/atlantafalcons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14653" tvg-name="Cincinnati Bengals vs. Buffalo Bills" tvg-logo="https://api.ppv.to/assets/thumb/50c552ccf897b4102ee572fc9e71e5f7-thumbnail.jpg" group-title="PPVLand - Live Now",Cincinnati Bengals vs. Buffalo Bills - 01:00 PM ET / 11:00 AM MT / 18:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/buffalobills/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14654" tvg-name="Tennessee Titans vs. Cleveland Browns" tvg-logo="https://api.ppv.to/assets/thumb/6dd624dbff435a78b3141d117f4f14a1-thumbnail.jpg" group-title="PPVLand - Live Now",Tennessee Titans vs. Cleveland Browns - 01:00 PM ET / 11:00 AM MT / 18:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/clevelandbrowns/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14655" tvg-name="Washington Commanders vs. Minnesota Vikings" tvg-logo="https://api.ppv.to/assets/thumb/7d92af043857cbb40920e3c6d9efdf3e-thumbnail.jpg" group-title="PPVLand - Live Now",Washington Commanders vs. Minnesota Vikings - 01:00 PM ET / 11:00 AM MT / 18:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/minnesotavikings/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14656" tvg-name="Miami Dolphins vs. New York Jets" tvg-logo="https://api.ppv.to/assets/thumb/dfdbb0ea6fa8d117c4f6f103c7eac5c0-thumbnail.jpg" group-title="PPVLand - Live Now",Miami Dolphins vs. New York Jets - 01:00 PM ET / 11:00 AM MT / 18:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/newyorkjets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14657" tvg-name="New Orleans Saints vs. Tampa Bay Buccaneers" tvg-logo="https://api.ppv.to/assets/thumb/0d40a3e8e4d292f6bab7128a7a0930a7-thumbnail.jpg" group-title="PPVLand - Live Now",New Orleans Saints vs. Tampa Bay Buccaneers - 01:00 PM ET / 11:00 AM MT / 18:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/tampabaybuccaneers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14658" tvg-name="Indianapolis Colts vs. Jacksonville Jaguars" tvg-logo="https://api.ppv.to/assets/thumb/35228d067085b7f0a833296dcfd98af9-thumbnail.jpg" group-title="PPVLand - Live Now",Indianapolis Colts vs. Jacksonville Jaguars - 01:00 PM ET / 11:00 AM MT / 18:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14659" tvg-name="Pittsburgh Steelers vs. Baltimore Ravens" tvg-logo="https://api.ppv.to/assets/thumb/b850e1185e28421a52a946e89c22808b-thumbnail.jpg" group-title="PPVLand - Live Now",Pittsburgh Steelers vs. Baltimore Ravens - 01:00 PM ET / 11:00 AM MT / 18:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/baltimoreravens/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14427" tvg-name="Napoli vs. Juventus" tvg-logo="https://api.ppv.to/assets/thumb/1ec6366647755f299eef3bf02abba79e-thumbnail.jpg" group-title="PPVLand - Live Now",Napoli vs. Juventus - 02:45 PM ET / 12:45 PM MT / 19:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -71,27 +39,27 @@ https://gg.poocloud.in/torontoraptors/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/lasvegasraiders/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14661" tvg-name="Chicago Bears vs. Green Bay Packers" tvg-logo="https://api.ppv.to/assets/thumb/2371d6ab0c51c5c06abdfcfda90f6054-thumbnail.jpg" group-title="PPVLand - NFL Action",Chicago Bears vs. Green Bay Packers - 04:25 PM ET / 02:25 PM MT / 21:25 UK
+#EXTINF:-1 tvg-id="ppv-14661" tvg-name="Chicago Bears vs. Green Bay Packers" tvg-logo="https://api.ppv.to/assets/thumb/2371d6ab0c51c5c06abdfcfda90f6054-thumbnail.jpg" group-title="PPVLand - Live Now",Chicago Bears vs. Green Bay Packers - 04:25 PM ET / 02:25 PM MT / 21:25 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/greenbaypackers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14662" tvg-name="Los Angeles Rams vs. Arizona Cardinals" tvg-logo="https://api.ppv.to/assets/thumb/598bd26bc10485fc4ad17c201fe623e4-thumbnail.jpg" group-title="PPVLand - NFL Action",Los Angeles Rams vs. Arizona Cardinals - 04:25 PM ET / 02:25 PM MT / 21:25 UK
+#EXTINF:-1 tvg-id="ppv-14662" tvg-name="Los Angeles Rams vs. Arizona Cardinals" tvg-logo="https://api.ppv.to/assets/thumb/598bd26bc10485fc4ad17c201fe623e4-thumbnail.jpg" group-title="PPVLand - Live Now",Los Angeles Rams vs. Arizona Cardinals - 04:25 PM ET / 02:25 PM MT / 21:25 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/arizonacardinals/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14684" tvg-name="New York Islanders vs. Florida Panthers" tvg-logo="https://api.ppv.to/assets/thumb/86a39ad31b9fa800f8c562ac51e9cac2-thumbnail.jpg" group-title="PPVLand - NHL Action",New York Islanders vs. Florida Panthers - 05:00 PM ET / 03:00 PM MT / 22:00 UK
+#EXTINF:-1 tvg-id="ppv-14684" tvg-name="New York Islanders vs. Florida Panthers" tvg-logo="https://api.ppv.to/assets/thumb/86a39ad31b9fa800f8c562ac51e9cac2-thumbnail.jpg" group-title="PPVLand - Live Now",New York Islanders vs. Florida Panthers - 05:00 PM ET / 03:00 PM MT / 22:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/floridapanthers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14686" tvg-name="San Jose Sharks vs. Carolina Hurricanes" tvg-logo="https://api.ppv.to/assets/thumb/2f12a1fa6f5144bb50bd2880b8c84ca4-thumbnail.jpg" group-title="PPVLand - NHL Action",San Jose Sharks vs. Carolina Hurricanes - 05:00 PM ET / 03:00 PM MT / 22:00 UK
+#EXTINF:-1 tvg-id="ppv-14686" tvg-name="San Jose Sharks vs. Carolina Hurricanes" tvg-logo="https://api.ppv.to/assets/thumb/2f12a1fa6f5144bb50bd2880b8c84ca4-thumbnail.jpg" group-title="PPVLand - Live Now",San Jose Sharks vs. Carolina Hurricanes - 05:00 PM ET / 03:00 PM MT / 22:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/carolinahurricanes/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14708" tvg-name="New York Islanders vs. Florida Panthers" tvg-logo="https://api.ppv.to/assets/thumb/71f651c21d48fb33880388d6fcf8eed5-thumbnail.jpg" group-title="PPVLand - NHL Action",New York Islanders vs. Florida Panthers - 05:00 PM ET / 03:00 PM MT / 22:00 UK
+#EXTINF:-1 tvg-id="ppv-14708" tvg-name="New York Islanders vs. Florida Panthers" tvg-logo="https://api.ppv.to/assets/thumb/71f651c21d48fb33880388d6fcf8eed5-thumbnail.jpg" group-title="PPVLand - Live Now",New York Islanders vs. Florida Panthers - 05:00 PM ET / 03:00 PM MT / 22:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/floridapanthers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14709" tvg-name="San Jose Sharks vs. Carolina Hurricanes" tvg-logo="https://api.ppv.to/assets/thumb/d41fcdfcbc63a315ad9b6e6c5dcf0c02-thumbnail.jpg" group-title="PPVLand - NHL Action",San Jose Sharks vs. Carolina Hurricanes - 05:00 PM ET / 03:00 PM MT / 22:00 UK
+#EXTINF:-1 tvg-id="ppv-14709" tvg-name="San Jose Sharks vs. Carolina Hurricanes" tvg-logo="https://api.ppv.to/assets/thumb/d41fcdfcbc63a315ad9b6e6c5dcf0c02-thumbnail.jpg" group-title="PPVLand - Live Now",San Jose Sharks vs. Carolina Hurricanes - 05:00 PM ET / 03:00 PM MT / 22:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/carolinahurricanes/index.m3u8
