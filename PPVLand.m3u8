@@ -7,7 +7,7 @@ https://gg.poocloud.in/southpark/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/cows/index.m3u8
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​​‌​‌​​​‌‌​‌‌​‌​‌​‌​‌‌‌​‌‌‌​‌​​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​​‌​‌​​​‌‌​‌‌​‌​‌​‌​‌‌‌​‌‌‌​‌​​ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​​​‌‌​‌​‌​‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌​​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​​​‌‌​‌​‌​‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌​​ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/familyguy/index.m3u8
@@ -19,14 +19,6 @@ https://gg.poocloud.in/thesimpsons/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/boxing/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14599" tvg-name="Georgia Bulldogs vs. Alabama Crimson Tide" tvg-logo="https://api.ppv.to/assets/thumb/c25b4d7302c5c1c448a26dc0a4a8f2cf-thumbnail.jpg" group-title="PPVLand - Live Now",Georgia Bulldogs vs. Alabama Crimson Tide - 04:00 PM ET / 02:00 PM MT / 21:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ABC/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14645" tvg-name="New Orleans Pelicans vs. Brooklyn Nets" tvg-logo="https://api.ppv.to/assets/thumb/125b36671398809d60a6f24ce6b180d6-thumbnail.jpg" group-title="PPVLand - Live Now",New Orleans Pelicans vs. Brooklyn Nets - 05:00 PM ET / 03:00 PM MT / 22:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/brooklynnets/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14602" tvg-name="Isaac Cruz vs. Lamont Roach" tvg-logo="https://api.ppv.to/assets/thumb/7423d101216a621b8ee36cf2df19a0f5-thumbnail.jpg" group-title="PPVLand - Live Now",Isaac Cruz vs. Lamont Roach - 05:30 PM ET / 03:30 PM MT / 22:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -91,31 +83,31 @@ https://gg.poocloud.in/calgaryflames/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/wwe/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14647" tvg-name="Golden State Warriors vs. Cleveland Cavaliers" tvg-logo="https://api.ppv.to/assets/thumb/2bf63d5a991975c4d4e309f55ca2832d-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Golden State Warriors vs. Cleveland Cavaliers - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTINF:-1 tvg-id="ppv-14647" tvg-name="Golden State Warriors vs. Cleveland Cavaliers" tvg-logo="https://api.ppv.to/assets/thumb/2bf63d5a991975c4d4e309f55ca2832d-thumbnail.jpg" group-title="PPVLand - Live Now",Golden State Warriors vs. Cleveland Cavaliers - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/clevelandcavaliers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14648" tvg-name="Milwaukee Bucks vs. Detroit Pistons" tvg-logo="https://api.ppv.to/assets/thumb/32a4168781e62b9f3d90caa8c7bc4529-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Milwaukee Bucks vs. Detroit Pistons - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTINF:-1 tvg-id="ppv-14648" tvg-name="Milwaukee Bucks vs. Detroit Pistons" tvg-logo="https://api.ppv.to/assets/thumb/32a4168781e62b9f3d90caa8c7bc4529-thumbnail.jpg" group-title="PPVLand - Live Now",Milwaukee Bucks vs. Detroit Pistons - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/detroitpistons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14600" tvg-name="Indiana Hoosiers vs. Ohio State Buckeyes" tvg-logo="https://api.ppv.to/assets/thumb/3722bbb358dd4211d0ebfd94cc4791c9-thumbnail.jpg" group-title="PPVLand - NFL Action",Indiana Hoosiers vs. Ohio State Buckeyes - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTINF:-1 tvg-id="ppv-14600" tvg-name="Indiana Hoosiers vs. Ohio State Buckeyes" tvg-logo="https://api.ppv.to/assets/thumb/3722bbb358dd4211d0ebfd94cc4791c9-thumbnail.jpg" group-title="PPVLand - Live Now",Indiana Hoosiers vs. Ohio State Buckeyes - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/FOX/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14601" tvg-name="Duke Blue Devils vs. Virginia Cavaliers" tvg-logo="https://api.ppv.to/assets/thumb/3e42dacf46278c11ef4a1e8b9dcb4139-thumbnail.jpg" group-title="PPVLand - NFL Action",Duke Blue Devils vs. Virginia Cavaliers - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTINF:-1 tvg-id="ppv-14601" tvg-name="Duke Blue Devils vs. Virginia Cavaliers" tvg-logo="https://api.ppv.to/assets/thumb/3e42dacf46278c11ef4a1e8b9dcb4139-thumbnail.jpg" group-title="PPVLand - Live Now",Duke Blue Devils vs. Virginia Cavaliers - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ABC/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14649" tvg-name="Sacramento Kings vs. Miami Heat" tvg-logo="https://api.ppv.to/assets/thumb/ecaf6133a2eb6989fd5aa0eccfe197de-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Sacramento Kings vs. Miami Heat - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTINF:-1 tvg-id="ppv-14649" tvg-name="Sacramento Kings vs. Miami Heat" tvg-logo="https://api.ppv.to/assets/thumb/ecaf6133a2eb6989fd5aa0eccfe197de-thumbnail.jpg" group-title="PPVLand - Live Now",Sacramento Kings vs. Miami Heat - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/miamiheat/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14650" tvg-name="LA Clippers vs. Minnesota Timberwolves" tvg-logo="https://api.ppv.to/assets/thumb/770c02b494d06a9a6f758e7f7a72e0fb-thumbnail.jpg" group-title="PPVLand - Basketball Hub",LA Clippers vs. Minnesota Timberwolves - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTINF:-1 tvg-id="ppv-14650" tvg-name="LA Clippers vs. Minnesota Timberwolves" tvg-logo="https://api.ppv.to/assets/thumb/770c02b494d06a9a6f758e7f7a72e0fb-thumbnail.jpg" group-title="PPVLand - Live Now",LA Clippers vs. Minnesota Timberwolves - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/minnesotatimberwolves/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14382" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPVLand - Wrestling Events",AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTINF:-1 tvg-id="ppv-14382" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPVLand - Live Now",AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/wrestling/index.m3u8
