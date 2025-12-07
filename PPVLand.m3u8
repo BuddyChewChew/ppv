@@ -7,7 +7,7 @@ https://gg.poocloud.in/southpark/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/cows/index.m3u8
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​​​​‌​​‌‌‌​‌‌​​‌​‌​‌‌​‌‌​‌​​‌​​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​​​​‌​​‌‌‌​‌‌​​‌​‌​‌‌​‌‌​‌​​‌​​ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌‌​‌​​‌​​‌‌​‌​‌​​​​‌​​‌​‌‌​​‌​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌‌​‌​​‌​​‌‌​‌​‌​​​​‌​​‌​‌‌​​‌​ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/familyguy/index.m3u8
@@ -15,22 +15,6 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14437" tvg-name="AJ Auxerre vs. FC Metz" tvg-logo="https://api.ppv.to/assets/thumb/f511cee16b9340132f3e08723c4c7ca0-thumbnail.jpg" group-title="PPVLand - Live Now",AJ Auxerre vs. FC Metz - 11:15 AM ET / 09:15 AM MT / 16:15 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ligue1_aux/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14438" tvg-name="Havre AC vs. Paris FC" tvg-logo="https://api.ppv.to/assets/thumb/45ada1247817a1946668df63de739768-thumbnail.jpg" group-title="PPVLand - Live Now",Havre AC vs. Paris FC - 11:15 AM ET / 09:15 AM MT / 16:15 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ligue1_lhv/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14397" tvg-name="Fulham vs. Crystal Palace" tvg-logo="https://api.ppv.to/assets/thumb/d2fd18098a2cd0b50e2ededc0ef1c66a-thumbnail.jpg" group-title="PPVLand - Live Now",Fulham vs. Crystal Palace - 11:30 AM ET / 09:30 AM MT / 16:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/epl_ful/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14420" tvg-name="Dortmund vs. Hoffenheim" tvg-logo="https://api.ppv.to/assets/thumb/959087cd7e92edfadfc2b55e30c9426b-thumbnail.jpg" group-title="PPVLand - Live Now",Dortmund vs. Hoffenheim - 11:30 AM ET / 09:30 AM MT / 16:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/bundesliga_dor/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14682" tvg-name="Orlando Magic vs. New York Knicks" tvg-logo="https://api.ppv.to/assets/thumb/25daa22c08fd158c8eb2de920be70a3f-thumbnail.jpg" group-title="PPVLand - Live Now",Orlando Magic vs. New York Knicks - 12:00 PM ET / 10:00 AM MT / 17:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
