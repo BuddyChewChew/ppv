@@ -7,7 +7,7 @@ https://gg.poocloud.in/southpark/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/cows/index.m3u8
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌‌​​‌​‌‌​​​​​‌‌‌​​‌‌​​​​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​‌​‌‌​​‌‌​​‌​‌‌​​​​​‌‌‌​​‌‌​​​​ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌‌​​​​​‌​‌​​‌​‌ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌‌​​​​​‌​‌​​‌​‌ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/familyguy/index.m3u8
@@ -15,19 +15,15 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14429" tvg-name="Udinese vs. Genoa" tvg-logo="https://api.ppv.to/assets/thumb/09b85654a26095331c96fa40460bbaa2-thumbnail.jpg" group-title="PPVLand - Live Now",Udinese vs. Genoa - 12:00 PM ET / 10:00 AM MT / 17:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/seriea_udi/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14430" tvg-name="Torino vs. Milan" tvg-logo="https://api.ppv.to/assets/thumb/3b54cae89856104933a92072d50fd292-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Torino vs. Milan - 02:45 PM ET / 12:45 PM MT / 19:45 UK
+#EXTINF:-1 tvg-id="ppv-14430" tvg-name="Torino vs. Milan" tvg-logo="https://api.ppv.to/assets/thumb/3b54cae89856104933a92072d50fd292-thumbnail.jpg" group-title="PPVLand - Live Now",Torino vs. Milan - 02:45 PM ET / 12:45 PM MT / 19:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/seriea_tor/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14402" tvg-name="Wolverhampton Wanderers vs. Manchester United" tvg-logo="https://api.ppv.to/assets/thumb/a8ea9ec9d74a54fef1834fddfec25473-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Wolverhampton Wanderers vs. Manchester United - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTINF:-1 tvg-id="ppv-14402" tvg-name="Wolverhampton Wanderers vs. Manchester United" tvg-logo="https://api.ppv.to/assets/thumb/a8ea9ec9d74a54fef1834fddfec25473-thumbnail.jpg" group-title="PPVLand - Live Now",Wolverhampton Wanderers vs. Manchester United - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/epl_wol/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14455" tvg-name="CA Osasuna vs. Levante UD" tvg-logo="https://api.ppv.to/assets/thumb/b42268396da7f5d1a63ebe28b41385ee-thumbnail.jpg" group-title="PPVLand - Global Football Streams",CA Osasuna vs. Levante UD - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTINF:-1 tvg-id="ppv-14455" tvg-name="CA Osasuna vs. Levante UD" tvg-logo="https://api.ppv.to/assets/thumb/b42268396da7f5d1a63ebe28b41385ee-thumbnail.jpg" group-title="PPVLand - Live Now",CA Osasuna vs. Levante UD - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_osa/index.m3u8
