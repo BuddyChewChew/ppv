@@ -7,7 +7,7 @@ https://gg.poocloud.in/southpark/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/cows/index.m3u8
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌‌​​‌​​​​‌‌​​​‌​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌‌​​‌​​​​‌‌​​​‌​ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌‌​‌​​‌​‌‌‌‌‌​‌​​​‌‌​‌​​‌​‌​‌​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌‌​‌​​‌​‌‌‌‌‌​‌​​​‌‌​‌​​‌​‌​‌​ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/familyguy/index.m3u8
@@ -15,10 +15,6 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14727" tvg-name="Sacramento Kings vs. Indiana Pacers" tvg-logo="https://api.ppv.to/assets/thumb/e1c70959d92ec320c91b3e600d669633-thumbnail.jpg" group-title="PPVLand - Live Now",Sacramento Kings vs. Indiana Pacers - 07:00 PM ET / 05:00 PM MT / 00:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/indianapacers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14730" tvg-name="Phoenix Suns vs. Minnesota Timberwolves" tvg-logo="https://api.ppv.to/assets/thumb/8a39a0a06f30a7e22cd0b5bec912a856-thumbnail.jpg" group-title="PPVLand - Live Now",Phoenix Suns vs. Minnesota Timberwolves - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -35,23 +31,23 @@ https://gg.poocloud.in/neworleanspelicans/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/wrestling/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14664" tvg-name="Philadelphia Eagles vs. Los Angeles Chargers" tvg-logo="https://api.ppv.to/assets/thumb/6592fcf8404fe8ce74eac5a2e07b7bcb-thumbnail.jpg" group-title="PPVLand - NFL Action",Philadelphia Eagles vs. Los Angeles Chargers - 08:15 PM ET / 06:15 PM MT / 01:15 UK
+#EXTINF:-1 tvg-id="ppv-14664" tvg-name="Philadelphia Eagles vs. Los Angeles Chargers" tvg-logo="https://api.ppv.to/assets/thumb/6592fcf8404fe8ce74eac5a2e07b7bcb-thumbnail.jpg" group-title="PPVLand - Live Now",Philadelphia Eagles vs. Los Angeles Chargers - 08:15 PM ET / 06:15 PM MT / 01:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/losangeleschargers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14729" tvg-name="Los Angeles Kings vs. Utah Mammoth" tvg-logo="https://api.ppv.to/assets/thumb/c2ee241fde184e5569ea8ef9db3fed24-thumbnail.jpg" group-title="PPVLand - NHL Action",Los Angeles Kings vs. Utah Mammoth - 09:00 PM ET / 07:00 PM MT / 02:00 UK
+#EXTINF:-1 tvg-id="ppv-14729" tvg-name="Los Angeles Kings vs. Utah Mammoth" tvg-logo="https://api.ppv.to/assets/thumb/c2ee241fde184e5569ea8ef9db3fed24-thumbnail.jpg" group-title="PPVLand - Live Now",Los Angeles Kings vs. Utah Mammoth - 09:00 PM ET / 07:00 PM MT / 02:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/utahmammoth/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14732" tvg-name="Buffalo Sabres vs. Calgary Flames" tvg-logo="https://api.ppv.to/assets/thumb/14a62e2af7b0f0f88609936ecaae24f0-thumbnail.jpg" group-title="PPVLand - NHL Action",Buffalo Sabres vs. Calgary Flames - 09:00 PM ET / 07:00 PM MT / 02:00 UK
+#EXTINF:-1 tvg-id="ppv-14732" tvg-name="Buffalo Sabres vs. Calgary Flames" tvg-logo="https://api.ppv.to/assets/thumb/14a62e2af7b0f0f88609936ecaae24f0-thumbnail.jpg" group-title="PPVLand - Live Now",Buffalo Sabres vs. Calgary Flames - 09:00 PM ET / 07:00 PM MT / 02:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/calgaryflames/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14733" tvg-name="Detroit Red Wings vs. Vancouver Canucks" tvg-logo="https://api.ppv.to/assets/thumb/14986035e94a6f542df562d5e3fb5de7-thumbnail.jpg" group-title="PPVLand - NHL Action",Detroit Red Wings vs. Vancouver Canucks - 10:00 PM ET / 08:00 PM MT / 03:00 UK
+#EXTINF:-1 tvg-id="ppv-14733" tvg-name="Detroit Red Wings vs. Vancouver Canucks" tvg-logo="https://api.ppv.to/assets/thumb/14986035e94a6f542df562d5e3fb5de7-thumbnail.jpg" group-title="PPVLand - Live Now",Detroit Red Wings vs. Vancouver Canucks - 10:00 PM ET / 08:00 PM MT / 03:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/vancouvercanucks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14734" tvg-name="Minnesota Wild vs. Seattle Kraken" tvg-logo="https://api.ppv.to/assets/thumb/52a72df231114e96c43ed385db8fc0c2-thumbnail.jpg" group-title="PPVLand - NHL Action",Minnesota Wild vs. Seattle Kraken - 10:00 PM ET / 08:00 PM MT / 03:00 UK
+#EXTINF:-1 tvg-id="ppv-14734" tvg-name="Minnesota Wild vs. Seattle Kraken" tvg-logo="https://api.ppv.to/assets/thumb/52a72df231114e96c43ed385db8fc0c2-thumbnail.jpg" group-title="PPVLand - Live Now",Minnesota Wild vs. Seattle Kraken - 10:00 PM ET / 08:00 PM MT / 03:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/seattlekraken/index.m3u8
