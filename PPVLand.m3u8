@@ -7,7 +7,7 @@ https://gg.poocloud.in/southpark/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/cows/index.m3u8
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌‌​‌​​‌​‌​‌​​‌ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌‌​‌​​‌​‌​‌​​‌ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌‌‌​‌‌‌​‌​​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌‌‌​‌‌‌​‌​​ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/familyguy/index.m3u8
@@ -15,43 +15,39 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14768" tvg-name="Bayern München vs. Sporting CP" tvg-logo="https://api.ppv.to/assets/thumb/5ecdaabd8f240cbaff18cc4c25152ca9-thumbnail.jpg" group-title="PPVLand - Live Now",Bayern München vs. Sporting CP - 12:45 PM ET / 10:45 AM MT / 17:45 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ucl_bay/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12737" tvg-name="CBS Sports Golazo Show" tvg-logo="https://api.ppv.to/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg" group-title="PPVLand - Global Football Streams",CBS Sports Golazo Show - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTINF:-1 tvg-id="ppv-12737" tvg-name="CBS Sports Golazo Show" tvg-logo="https://api.ppv.to/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg" group-title="PPVLand - Live Now",CBS Sports Golazo Show - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ucl_golazo/index.m3u8
-#EXTINF:-1 tvg-id="ppv-13195" tvg-name="TNT Sports Goals Show" tvg-logo="https://api.ppv.to/assets/thumb/a1ffcb323db604d728eb84a29c7d3df0-thumbnail.jpg" group-title="PPVLand - Global Football Streams",TNT Sports Goals Show - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTINF:-1 tvg-id="ppv-13195" tvg-name="TNT Sports Goals Show" tvg-logo="https://api.ppv.to/assets/thumb/a1ffcb323db604d728eb84a29c7d3df0-thumbnail.jpg" group-title="PPVLand - Live Now",TNT Sports Goals Show - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ucl_goalsxtra/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14769" tvg-name="Inter vs. Liverpool" tvg-logo="https://api.ppv.to/assets/thumb/aa67664ed88e6eacc2cfd74c22e74005-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Inter vs. Liverpool - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTINF:-1 tvg-id="ppv-14769" tvg-name="Inter vs. Liverpool" tvg-logo="https://api.ppv.to/assets/thumb/aa67664ed88e6eacc2cfd74c22e74005-thumbnail.jpg" group-title="PPVLand - Live Now",Inter vs. Liverpool - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ucl_int/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14770" tvg-name="Barcelona vs. Frankfurt" tvg-logo="https://api.ppv.to/assets/thumb/b8d937360033c2d7315396066122f97c-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Barcelona vs. Frankfurt - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTINF:-1 tvg-id="ppv-14770" tvg-name="Barcelona vs. Frankfurt" tvg-logo="https://api.ppv.to/assets/thumb/b8d937360033c2d7315396066122f97c-thumbnail.jpg" group-title="PPVLand - Live Now",Barcelona vs. Frankfurt - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ucl_bar/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14771" tvg-name="Atalanta vs. Chelsea" tvg-logo="https://api.ppv.to/assets/thumb/aa60577a2c92ed024c37fa298b08756a-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Atalanta vs. Chelsea - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTINF:-1 tvg-id="ppv-14771" tvg-name="Atalanta vs. Chelsea" tvg-logo="https://api.ppv.to/assets/thumb/aa60577a2c92ed024c37fa298b08756a-thumbnail.jpg" group-title="PPVLand - Live Now",Atalanta vs. Chelsea - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ucl_ata/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14772" tvg-name="Tottenham vs. Slavia Praha" tvg-logo="https://api.ppv.to/assets/thumb/65feb28413c633fbb4f052a11b66d106-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Tottenham vs. Slavia Praha - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTINF:-1 tvg-id="ppv-14772" tvg-name="Tottenham vs. Slavia Praha" tvg-logo="https://api.ppv.to/assets/thumb/65feb28413c633fbb4f052a11b66d106-thumbnail.jpg" group-title="PPVLand - Live Now",Tottenham vs. Slavia Praha - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ucl_tot/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14773" tvg-name="PSV vs. Atleti" tvg-logo="https://api.ppv.to/assets/thumb/a96957929995ff16a420822d58d133b3-thumbnail.jpg" group-title="PPVLand - Global Football Streams",PSV vs. Atleti - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTINF:-1 tvg-id="ppv-14773" tvg-name="PSV vs. Atleti" tvg-logo="https://api.ppv.to/assets/thumb/a96957929995ff16a420822d58d133b3-thumbnail.jpg" group-title="PPVLand - Live Now",PSV vs. Atleti - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ucl_psv/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14774" tvg-name="Monaco vs. Galatasaray" tvg-logo="https://api.ppv.to/assets/thumb/ed784950035d34c65a44bc4764a8c609-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Monaco vs. Galatasaray - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTINF:-1 tvg-id="ppv-14774" tvg-name="Monaco vs. Galatasaray" tvg-logo="https://api.ppv.to/assets/thumb/ed784950035d34c65a44bc4764a8c609-thumbnail.jpg" group-title="PPVLand - Live Now",Monaco vs. Galatasaray - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ucl_mon/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14775" tvg-name="Union SG vs. Marseille" tvg-logo="https://api.ppv.to/assets/thumb/ce4666f276efd973acdf2b2586e750e5-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Union SG vs. Marseille - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTINF:-1 tvg-id="ppv-14775" tvg-name="Union SG vs. Marseille" tvg-logo="https://api.ppv.to/assets/thumb/ce4666f276efd973acdf2b2586e750e5-thumbnail.jpg" group-title="PPVLand - Live Now",Union SG vs. Marseille - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ucl_usg/index.m3u8
@@ -331,6 +327,10 @@ https://gg.poocloud.in/bundesliga_stp/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bundesliga_tsg/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14751" tvg-name="Chelsea vs. Everton" tvg-logo="https://api.ppv.to/assets/thumb/61d2e0b372d0deb06396633b799fff71-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Chelsea vs. Everton - 10:00 AM ET / 08:00 AM MT / 15:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/epl_che/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14753" tvg-name="Liverpool vs. Brighton and Hove Albion" tvg-logo="https://api.ppv.to/assets/thumb/9987c73d3cb4666c0230aecb9e6aa699-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Liverpool vs. Brighton and Hove Albion - 10:00 AM ET / 08:00 AM MT / 15:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
