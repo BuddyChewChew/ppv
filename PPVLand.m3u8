@@ -7,7 +7,7 @@ https://gg.poocloud.in/southpark/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/cows/index.m3u8
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌‌​‌​‌‌​​​‌​‌‌​‌‌‌‌‌​‌​‌ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​‌​‌‌​​‌‌​‌​‌‌​​​‌​‌‌​‌‌‌‌‌​‌​‌ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​‌​‌​​‌‌​​​​​​​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​‌​‌​​‌‌​​​​​​​ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/familyguy/index.m3u8
@@ -15,14 +15,6 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14733" tvg-name="Detroit Red Wings vs. Vancouver Canucks" tvg-logo="https://api.ppv.to/assets/thumb/14986035e94a6f542df562d5e3fb5de7-thumbnail.jpg" group-title="PPVLand - Live Now",Detroit Red Wings vs. Vancouver Canucks - 10:00 PM ET / 08:00 PM MT / 03:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/vancouvercanucks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14734" tvg-name="Minnesota Wild vs. Seattle Kraken" tvg-logo="https://api.ppv.to/assets/thumb/52a72df231114e96c43ed385db8fc0c2-thumbnail.jpg" group-title="PPVLand - Live Now",Minnesota Wild vs. Seattle Kraken - 10:00 PM ET / 08:00 PM MT / 03:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/seattlekraken/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14767" tvg-name="Kairat Almaty vs. Olympiacos" tvg-logo="https://api.ppv.to/assets/thumb/17201132dc25834d60e71099ee796945-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Kairat Almaty vs. Olympiacos - 10:30 AM ET / 08:30 AM MT / 15:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
