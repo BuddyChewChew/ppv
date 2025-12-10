@@ -7,7 +7,7 @@ https://gg.poocloud.in/southpark/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/cows/index.m3u8
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌‌​‌​‌‌​​‌​‌​​​​​‌ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌‌​‌​‌‌​​‌​‌​​​​​‌ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌‌​​​​​‌​‌​​​​‌ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌‌​​​​​‌​‌​​​​‌ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/familyguy/index.m3u8
@@ -15,26 +15,6 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14842" tvg-name="Miami Heat vs. Orlando Magic" tvg-logo="https://api.ppv.to/assets/thumb/bb9b86f3eb0384ce89eb8293a227abe8-thumbnail.jpg" group-title="PPVLand - Live Now",Miami Heat vs. Orlando Magic - 06:00 PM ET / 04:00 PM MT / 23:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/orlandomagic/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14843" tvg-name="Tampa Bay Lightning vs. Montreal Canadiens" tvg-logo="https://api.ppv.to/assets/thumb/44abd5b84583e37e0de9e437ee6617d2-thumbnail.jpg" group-title="PPVLand - Live Now",Tampa Bay Lightning vs. Montreal Canadiens - 07:00 PM ET / 05:00 PM MT / 00:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/montrealcanadiens/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14846" tvg-name="New Jersey Devils vs. Ottawa Senators" tvg-logo="https://api.ppv.to/assets/thumb/31c6c8f98895218b182f5e2977301133-thumbnail.jpg" group-title="PPVLand - Live Now",New Jersey Devils vs. Ottawa Senators - 07:00 PM ET / 05:00 PM MT / 00:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ottawasenators/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14848" tvg-name="Vegas Golden Knights vs. New York Islanders" tvg-logo="https://api.ppv.to/assets/thumb/9660faf10cbea9aaf128f6174b00b213-thumbnail.jpg" group-title="PPVLand - Live Now",Vegas Golden Knights vs. New York Islanders - 07:00 PM ET / 05:00 PM MT / 00:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/newyorkislanders/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14850" tvg-name="San Jose Sharks vs. Philadelphia Flyers" tvg-logo="https://api.ppv.to/assets/thumb/ce916705c1b4508d78f11c68f057d8ec-thumbnail.jpg" group-title="PPVLand - Live Now",San Jose Sharks vs. Philadelphia Flyers - 07:00 PM ET / 05:00 PM MT / 00:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/philadelphiaflyers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14855" tvg-name="Columbus Blue Jackets vs. Carolina Hurricanes" tvg-logo="https://api.ppv.to/assets/thumb/b204406ecbda6e8916e9ebbc597b36d6-thumbnail.jpg" group-title="PPVLand - Live Now",Columbus Blue Jackets vs. Carolina Hurricanes - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -51,15 +31,15 @@ https://gg.poocloud.in/winnipegjets/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/wrestling/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14845" tvg-name="New York Knicks vs. Toronto Raptors" tvg-logo="https://api.ppv.to/assets/thumb/b5b97f7ee7f682aead17045c7c6d6b51-thumbnail.jpg" group-title="PPVLand - Basketball Hub",New York Knicks vs. Toronto Raptors - 08:30 PM ET / 06:30 PM MT / 01:30 UK
+#EXTINF:-1 tvg-id="ppv-14845" tvg-name="New York Knicks vs. Toronto Raptors" tvg-logo="https://api.ppv.to/assets/thumb/b5b97f7ee7f682aead17045c7c6d6b51-thumbnail.jpg" group-title="PPVLand - Live Now",New York Knicks vs. Toronto Raptors - 08:30 PM ET / 06:30 PM MT / 01:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/torontoraptors/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14861" tvg-name="Buffalo Sabres vs. Edmonton Oilers" tvg-logo="https://api.ppv.to/assets/thumb/2e3575d1c32635b2b8ca8818b8eed6e6-thumbnail.jpg" group-title="PPVLand - NHL Action",Buffalo Sabres vs. Edmonton Oilers - 09:00 PM ET / 07:00 PM MT / 02:00 UK
+#EXTINF:-1 tvg-id="ppv-14861" tvg-name="Buffalo Sabres vs. Edmonton Oilers" tvg-logo="https://api.ppv.to/assets/thumb/2e3575d1c32635b2b8ca8818b8eed6e6-thumbnail.jpg" group-title="PPVLand - Live Now",Buffalo Sabres vs. Edmonton Oilers - 09:00 PM ET / 07:00 PM MT / 02:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/edmontonoilers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14863" tvg-name="Colorado Avalanche vs. Nashville Predators" tvg-logo="https://api.ppv.to/assets/thumb/b80547dc393563ca22e9543eb4d38d62-thumbnail.jpg" group-title="PPVLand - NHL Action",Colorado Avalanche vs. Nashville Predators - 09:30 PM ET / 07:30 PM MT / 02:30 UK
+#EXTINF:-1 tvg-id="ppv-14863" tvg-name="Colorado Avalanche vs. Nashville Predators" tvg-logo="https://api.ppv.to/assets/thumb/b80547dc393563ca22e9543eb4d38d62-thumbnail.jpg" group-title="PPVLand - Live Now",Colorado Avalanche vs. Nashville Predators - 09:30 PM ET / 07:30 PM MT / 02:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/nashvillepredators/index.m3u8
