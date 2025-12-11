@@ -7,7 +7,7 @@ https://gg.poocloud.in/southpark/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/cows/index.m3u8
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​​​​‌​​‌‌‌‌​‌‌​‌​​​​‌‌‌​​​​​‌​​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​​​​‌​​‌‌‌‌​‌‌​‌​​​​‌‌‌​​​​​‌​​ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​​​​‌‌‌‌‌‌​‌‌​‌‌​​​​​‌​‌​​‌‌​​​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​​​​‌‌‌‌‌‌​‌‌​‌‌​​​​​‌​‌​​‌‌​​​ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/familyguy/index.m3u8
@@ -15,79 +15,79 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14785" tvg-name="GNK Dinamo vs. Real Betis" tvg-logo="https://api.ppv.to/assets/thumb/000c01f2dc0717c95eaf21e52f81a112-thumbnail.jpg" group-title="PPVLand - Global Football Streams",GNK Dinamo vs. Real Betis - 12:45 PM ET / 10:45 AM MT / 17:45 UK
+#EXTINF:-1 tvg-id="ppv-14785" tvg-name="GNK Dinamo vs. Real Betis" tvg-logo="https://api.ppv.to/assets/thumb/000c01f2dc0717c95eaf21e52f81a112-thumbnail.jpg" group-title="PPVLand - Live Now",GNK Dinamo vs. Real Betis - 12:45 PM ET / 10:45 AM MT / 17:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uel_din/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14786" tvg-name="Ferencváros vs. Rangers" tvg-logo="https://api.ppv.to/assets/thumb/05aec81436c286cf781ef794073b2297-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Ferencváros vs. Rangers - 12:45 PM ET / 10:45 AM MT / 17:45 UK
+#EXTINF:-1 tvg-id="ppv-14786" tvg-name="Ferencváros vs. Rangers" tvg-logo="https://api.ppv.to/assets/thumb/05aec81436c286cf781ef794073b2297-thumbnail.jpg" group-title="PPVLand - Live Now",Ferencváros vs. Rangers - 12:45 PM ET / 10:45 AM MT / 17:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uel_fer/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14787" tvg-name="Young Boys vs. Lille" tvg-logo="https://api.ppv.to/assets/thumb/571da5da2f6346be15b53f54294497a4-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Young Boys vs. Lille - 12:45 PM ET / 10:45 AM MT / 17:45 UK
+#EXTINF:-1 tvg-id="ppv-14787" tvg-name="Young Boys vs. Lille" tvg-logo="https://api.ppv.to/assets/thumb/571da5da2f6346be15b53f54294497a4-thumbnail.jpg" group-title="PPVLand - Live Now",Young Boys vs. Lille - 12:45 PM ET / 10:45 AM MT / 17:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uel_yb/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14788" tvg-name="Midtjylland vs. Genk" tvg-logo="https://api.ppv.to/assets/thumb/60664f86cc21f8d220949d0ad62c4a3d-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Midtjylland vs. Genk - 12:45 PM ET / 10:45 AM MT / 17:45 UK
+#EXTINF:-1 tvg-id="ppv-14788" tvg-name="Midtjylland vs. Genk" tvg-logo="https://api.ppv.to/assets/thumb/60664f86cc21f8d220949d0ad62c4a3d-thumbnail.jpg" group-title="PPVLand - Live Now",Midtjylland vs. Genk - 12:45 PM ET / 10:45 AM MT / 17:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uel_mid/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14789" tvg-name="Ludogorets vs. PAOK" tvg-logo="https://api.ppv.to/assets/thumb/4acd2d000376a204c17de27d59e4a037-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Ludogorets vs. PAOK - 12:45 PM ET / 10:45 AM MT / 17:45 UK
+#EXTINF:-1 tvg-id="ppv-14789" tvg-name="Ludogorets vs. PAOK" tvg-logo="https://api.ppv.to/assets/thumb/4acd2d000376a204c17de27d59e4a037-thumbnail.jpg" group-title="PPVLand - Live Now",Ludogorets vs. PAOK - 12:45 PM ET / 10:45 AM MT / 17:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uel_lud/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14790" tvg-name="Sturm Graz vs. Crvena Zvezda" tvg-logo="https://api.ppv.to/assets/thumb/2a2d84c57e25b9831611f67c35437fc2-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Sturm Graz vs. Crvena Zvezda - 12:45 PM ET / 10:45 AM MT / 17:45 UK
+#EXTINF:-1 tvg-id="ppv-14790" tvg-name="Sturm Graz vs. Crvena Zvezda" tvg-logo="https://api.ppv.to/assets/thumb/2a2d84c57e25b9831611f67c35437fc2-thumbnail.jpg" group-title="PPVLand - Live Now",Sturm Graz vs. Crvena Zvezda - 12:45 PM ET / 10:45 AM MT / 17:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uel_sgr/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14791" tvg-name="Nice vs. Braga" tvg-logo="https://api.ppv.to/assets/thumb/2866b26f15242537794439ba9e941cef-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Nice vs. Braga - 12:45 PM ET / 10:45 AM MT / 17:45 UK
+#EXTINF:-1 tvg-id="ppv-14791" tvg-name="Nice vs. Braga" tvg-logo="https://api.ppv.to/assets/thumb/2866b26f15242537794439ba9e941cef-thumbnail.jpg" group-title="PPVLand - Live Now",Nice vs. Braga - 12:45 PM ET / 10:45 AM MT / 17:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uel_nic/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14792" tvg-name="Stuttgart vs. M. Tel-Aviv" tvg-logo="https://api.ppv.to/assets/thumb/a76f262857b7d005bd53a5bc7f8f05f4-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Stuttgart vs. M. Tel-Aviv - 12:45 PM ET / 10:45 AM MT / 17:45 UK
+#EXTINF:-1 tvg-id="ppv-14792" tvg-name="Stuttgart vs. M. Tel-Aviv" tvg-logo="https://api.ppv.to/assets/thumb/a76f262857b7d005bd53a5bc7f8f05f4-thumbnail.jpg" group-title="PPVLand - Live Now",Stuttgart vs. M. Tel-Aviv - 12:45 PM ET / 10:45 AM MT / 17:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uel_stu/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14793" tvg-name="Utrecht vs. Nott'm Forest" tvg-logo="https://api.ppv.to/assets/thumb/8571f94c7df776ac47effe9713451b3d-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Utrecht vs. Nott'm Forest - 12:45 PM ET / 10:45 AM MT / 17:45 UK
+#EXTINF:-1 tvg-id="ppv-14793" tvg-name="Utrecht vs. Nott'm Forest" tvg-logo="https://api.ppv.to/assets/thumb/8571f94c7df776ac47effe9713451b3d-thumbnail.jpg" group-title="PPVLand - Live Now",Utrecht vs. Nott'm Forest - 12:45 PM ET / 10:45 AM MT / 17:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uel_utr/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14803" tvg-name="Fiorentina vs. Dynamo Kyiv" tvg-logo="https://api.ppv.to/assets/thumb/cbc6a936b21482097a94b20358018707-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Fiorentina vs. Dynamo Kyiv - 12:45 PM ET / 10:45 AM MT / 17:45 UK
+#EXTINF:-1 tvg-id="ppv-14803" tvg-name="Fiorentina vs. Dynamo Kyiv" tvg-logo="https://api.ppv.to/assets/thumb/cbc6a936b21482097a94b20358018707-thumbnail.jpg" group-title="PPVLand - Live Now",Fiorentina vs. Dynamo Kyiv - 12:45 PM ET / 10:45 AM MT / 17:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uecl_fio/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14804" tvg-name="Jagiellonia vs. Rayo Vallecano" tvg-logo="https://api.ppv.to/assets/thumb/106cba7c5ff076ea39b3dbdf372f1b31-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Jagiellonia vs. Rayo Vallecano - 12:45 PM ET / 10:45 AM MT / 17:45 UK
+#EXTINF:-1 tvg-id="ppv-14804" tvg-name="Jagiellonia vs. Rayo Vallecano" tvg-logo="https://api.ppv.to/assets/thumb/106cba7c5ff076ea39b3dbdf372f1b31-thumbnail.jpg" group-title="PPVLand - Live Now",Jagiellonia vs. Rayo Vallecano - 12:45 PM ET / 10:45 AM MT / 17:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uecl_jag/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14805" tvg-name="Drita vs. AZ Alkmaar" tvg-logo="https://api.ppv.to/assets/thumb/295001b0bbfd4a5f7b513a056bccb73f-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Drita vs. AZ Alkmaar - 12:45 PM ET / 10:45 AM MT / 17:45 UK
+#EXTINF:-1 tvg-id="ppv-14805" tvg-name="Drita vs. AZ Alkmaar" tvg-logo="https://api.ppv.to/assets/thumb/295001b0bbfd4a5f7b513a056bccb73f-thumbnail.jpg" group-title="PPVLand - Live Now",Drita vs. AZ Alkmaar - 12:45 PM ET / 10:45 AM MT / 17:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uecl_dri/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14806" tvg-name="Breiðablik vs. Shamrock Rovers" tvg-logo="https://api.ppv.to/assets/thumb/16161d0330a06471e2b19ee466f1cb28-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Breiðablik vs. Shamrock Rovers - 12:45 PM ET / 10:45 AM MT / 17:45 UK
+#EXTINF:-1 tvg-id="ppv-14806" tvg-name="Breiðablik vs. Shamrock Rovers" tvg-logo="https://api.ppv.to/assets/thumb/16161d0330a06471e2b19ee466f1cb28-thumbnail.jpg" group-title="PPVLand - Live Now",Breiðablik vs. Shamrock Rovers - 12:45 PM ET / 10:45 AM MT / 17:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uecl_brd/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14807" tvg-name="Samsunspor vs. AEK Athens" tvg-logo="https://api.ppv.to/assets/thumb/f0f537b916a989a9c03b321818851461-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Samsunspor vs. AEK Athens - 12:45 PM ET / 10:45 AM MT / 17:45 UK
+#EXTINF:-1 tvg-id="ppv-14807" tvg-name="Samsunspor vs. AEK Athens" tvg-logo="https://api.ppv.to/assets/thumb/f0f537b916a989a9c03b321818851461-thumbnail.jpg" group-title="PPVLand - Live Now",Samsunspor vs. AEK Athens - 12:45 PM ET / 10:45 AM MT / 17:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uecl_sam/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14808" tvg-name="Shkëndija vs. S. Bratislava" tvg-logo="https://api.ppv.to/assets/thumb/8e8d0919fb77027a466e89dabaa68418-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Shkëndija vs. S. Bratislava - 12:45 PM ET / 10:45 AM MT / 17:45 UK
+#EXTINF:-1 tvg-id="ppv-14808" tvg-name="Shkëndija vs. S. Bratislava" tvg-logo="https://api.ppv.to/assets/thumb/8e8d0919fb77027a466e89dabaa68418-thumbnail.jpg" group-title="PPVLand - Live Now",Shkëndija vs. S. Bratislava - 12:45 PM ET / 10:45 AM MT / 17:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uecl_skn/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14809" tvg-name="Häcken vs. AEK Larnaca" tvg-logo="https://api.ppv.to/assets/thumb/b32ef21c74d46f1d10bd1e2f53abf22f-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Häcken vs. AEK Larnaca - 12:45 PM ET / 10:45 AM MT / 17:45 UK
+#EXTINF:-1 tvg-id="ppv-14809" tvg-name="Häcken vs. AEK Larnaca" tvg-logo="https://api.ppv.to/assets/thumb/b32ef21c74d46f1d10bd1e2f53abf22f-thumbnail.jpg" group-title="PPVLand - Live Now",Häcken vs. AEK Larnaca - 12:45 PM ET / 10:45 AM MT / 17:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uecl_hac/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14810" tvg-name="U. Craiova vs. Sparta Praha" tvg-logo="https://api.ppv.to/assets/thumb/b8e22cf6b6bcca42a32f00a7e47e6ea9-thumbnail.jpg" group-title="PPVLand - Global Football Streams",U. Craiova vs. Sparta Praha - 12:45 PM ET / 10:45 AM MT / 17:45 UK
+#EXTINF:-1 tvg-id="ppv-14810" tvg-name="U. Craiova vs. Sparta Praha" tvg-logo="https://api.ppv.to/assets/thumb/b8e22cf6b6bcca42a32f00a7e47e6ea9-thumbnail.jpg" group-title="PPVLand - Live Now",U. Craiova vs. Sparta Praha - 12:45 PM ET / 10:45 AM MT / 17:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uecl_ucr/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14811" tvg-name="Noah vs. Legia Warszawa" tvg-logo="https://api.ppv.to/assets/thumb/ace25470565c3f9d0665e546fc84ff12-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Noah vs. Legia Warszawa - 12:45 PM ET / 10:45 AM MT / 17:45 UK
+#EXTINF:-1 tvg-id="ppv-14811" tvg-name="Noah vs. Legia Warszawa" tvg-logo="https://api.ppv.to/assets/thumb/ace25470565c3f9d0665e546fc84ff12-thumbnail.jpg" group-title="PPVLand - Live Now",Noah vs. Legia Warszawa - 12:45 PM ET / 10:45 AM MT / 17:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/uecl_noa/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14899" tvg-name="World Darts Championship" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="PPVLand - Darts",World Darts Championship - 01:30 PM ET / 11:30 AM MT / 18:30 UK
+#EXTINF:-1 tvg-id="ppv-14899" tvg-name="World Darts Championship" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="PPVLand - Live Now",World Darts Championship - 01:30 PM ET / 11:30 AM MT / 18:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/darts/index.m3u8
