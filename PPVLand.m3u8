@@ -7,7 +7,7 @@ https://gg.poocloud.in/southpark/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/cows/index.m3u8
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​‌‌​‌​​‌‌‌​‌‌‌​​​​‌‌​‌​‌‌‌‌​‌​​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌‌​‌​​‌‌‌​‌‌‌​​​​‌‌​‌​‌‌‌‌​‌​​ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​​​‌​‌​​‌​‌​‌​‌‌​‌‌‌‌‌‌​‌‌​‌‌​​​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​​‌​‌​​‌​‌​‌​‌‌​‌‌‌‌‌‌​‌‌​‌‌​​​ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/familyguy/index.m3u8
@@ -19,18 +19,6 @@ https://gg.poocloud.in/thesimpsons/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14758" tvg-name="Union Berlin vs. RB Leipzig" tvg-logo="https://api.ppv.to/assets/thumb/a7706495cec5fe36aed593de080a0609-thumbnail.jpg" group-title="PPVLand - Live Now",Union Berlin vs. RB Leipzig - 02:30 PM ET / 12:30 PM MT / 19:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/bundesliga_fcu/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14821" tvg-name="Lecce vs. Pisa" tvg-logo="https://api.ppv.to/assets/thumb/15dd8eef38627b8ad52f73feef952d48-thumbnail.jpg" group-title="PPVLand - Live Now",Lecce vs. Pisa - 02:45 PM ET / 12:45 PM MT / 19:45 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/seriea_lec/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14831" tvg-name="Angers SCO vs. FC Nantes" tvg-logo="https://api.ppv.to/assets/thumb/bc843c4c599d9f93d0ded1beb6b81b07-thumbnail.jpg" group-title="PPVLand - Live Now",Angers SCO vs. FC Nantes - 02:45 PM ET / 12:45 PM MT / 19:45 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ligue1_anr/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14889" tvg-name="Real Sociedad vs. Girona FC" tvg-logo="https://api.ppv.to/assets/thumb/2d106971550f3b688dc1c18f9df009cf-thumbnail.jpg" group-title="PPVLand - Live Now",Real Sociedad vs. Girona FC - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -59,10 +47,6 @@ https://gg.poocloud.in/memphisgrizzlies/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/stlouisblues/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14939" tvg-name="Chicago Blackhawks vs. St. Louis Blues" tvg-logo="https://api.ppv.to/assets/thumb/8eed82a8aa4c347b2b34f770c9596bfa-thumbnail.jpg" group-title="PPVLand - NHL Action",Chicago Blackhawks vs. St. Louis Blues - 08:00 PM ET / 06:00 PM MT / 01:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/stlouisblues/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14746" tvg-name="WWE: Friday Night Smackdown" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="PPVLand - Wrestling Events",WWE: Friday Night Smackdown - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -72,10 +56,6 @@ https://gg.poocloud.in/wrestling/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/dallasmavericks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14934" tvg-name="Seattle Kraken vs. Utah Mammoth" tvg-logo="https://api.ppv.to/assets/thumb/ee3f1bd987bbde10ae21117df01ebb9b-thumbnail.jpg" group-title="PPVLand - NHL Action",Seattle Kraken vs. Utah Mammoth - 09:00 PM ET / 07:00 PM MT / 02:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/utahmammoth/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14940" tvg-name="Seattle Kraken vs. Utah Mammoth" tvg-logo="https://api.ppv.to/assets/thumb/bc297830c1317fe2bcf878678119cdd0-thumbnail.jpg" group-title="PPVLand - NHL Action",Seattle Kraken vs. Utah Mammoth - 09:00 PM ET / 07:00 PM MT / 02:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/utahmammoth/index.m3u8
@@ -91,6 +71,10 @@ https://gg.poocloud.in/ll_atm/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/seriea_tor/index.m3u8
+#EXTINF:-1 tvg-id="ppv-12822" tvg-name="Goal Arena" tvg-logo="https://api.ppv.to/assets/thumb/dd9a64549d7fa6bd306566b0093c32ba-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Goal Arena - 09:30 AM ET / 07:30 AM MT / 14:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/bundesliga_goalarena/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14759" tvg-name="Gladbach vs. Wolfsburg" tvg-logo="https://api.ppv.to/assets/thumb/ad02a343f3f7c8ea512aee59b134a420-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Gladbach vs. Wolfsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
