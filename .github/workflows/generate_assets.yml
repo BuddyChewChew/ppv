@@ -1,82 +1,44 @@
-name: ▶️ Hourly Playlist and EPG Generation
+name: ▶️ PPV Stream Fetcher
 
 on:
-  # 1. Manual Trigger: Allows you to run the workflow manually from the Actions tab
-  workflow_dispatch:
-    inputs:
-      reason:
-        description: 'Reason for manual execution'
-        required: false
-        default: 'Manual run'
-
-  # 2. Hourly Schedule: Runs the workflow at the 0th minute of every hour, every day (UTC)
   schedule:
+    # Run every hour on the hour
     - cron: '0 * * * *'
+  workflow_dispatch:
+    # Allow manual trigger
 
 jobs:
-  build_and_release:
+  fetch-streams:
     runs-on: ubuntu-latest
     
-    # Prevents multiple hourly runs from piling up if the previous one is still running
-    concurrency: 
-      group: ${{ github.workflow }}-${{ github.ref }}
-      cancel-in-progress: true
-
     steps:
-      - name: ⬇️ Checkout Repository
-        uses: actions/checkout@v4
+    - name: Checkout code
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
         
-      - name: 🐍 Set up Python 3.10
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10' 
-
-      - name: 📦 Install Python Dependencies
-        # Only installing required external libraries: aiohttp and playwright.
-        run: |
-          pip install aiohttp playwright
-          
-      - name: 🌐 Install Playwright Browsers (Firefox)
-        run: |
-          playwright install firefox
-
-      - name: ⚙️ Run EPG Script (ppvepg.py)
-        # This script generates the PPVLand.xml.gz file
-        run: |
-          echo "Executing EPG script..."
-          python ppvepg.py
-          
-      - name: ⚙️ Run Playlist Script (ppv.py)
-        # This script generates the PPVLand.m3u8 file
-        run: |
-          echo "Executing Playlist script (requires Playwright)..."
-          python ppv.py
-          
-      - name: ✅ Verify Generated Files
-        run: |
-          if [ -f PPVLand.xml.gz ] && [ -f PPVLand.m3u8 ]; then
-            echo "Both PPVLand.xml.gz and PPVLand.m3u8 found."
-          else
-            echo "ERROR: Missing required output file(s)."
-            ls -l
-            exit 1
-          fi
-
-      - name: 🚀 Create GitHub Release and Upload Assets
-        id: create_release
-        uses: softprops/action-gh-release@v2
-        with:
-          # FIX: Simplified release name to prevent template errors. 
-          # Using the current UTC date/time (which is always available) and run number.
-          tag_name: assets-hourly-${{ github.run_number }}
-          name: Hourly EPG Update - ${{ env.GITHUB_RUN_NUMBER }} - ${{ github.ref_name }}
-          body: |
-            This is an automated hourly update for the PPVLand EPG and Playlist.
-            
-            **For TiviMate EPG Source:** You must use the direct download URL for the `PPVLand.xml.gz` file found under "Assets" in this release.
-          
-          files: |
-            PPVLand.m3u8
-            PPVLand.xml.gz 
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install aiohttp playwright
+        playwright install
+        playwright install-deps
+        
+    - name: Run PPV script
+      run: |
+        python ppv.py
+        
+    - name: Commit changes
+      if: success()
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add PPVLand.m3u8
+        git diff --quiet && git diff --staged --quiet || 
+          (git commit -m "Update PPV streams [skip ci]" && 
+           git push) || echo "No changes to commit"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
