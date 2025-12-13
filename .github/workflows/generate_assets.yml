@@ -17,6 +17,7 @@ jobs:
   build_and_release:
     runs-on: ubuntu-latest
     
+    # Prevents multiple hourly runs from piling up if the previous one is still running
     concurrency: 
       group: ${{ github.workflow }}-${{ github.ref }}
       cancel-in-progress: true
@@ -31,7 +32,7 @@ jobs:
           python-version: '3.10' 
 
       - name: 📦 Install Python Dependencies
-        # Installing required external libraries: aiohttp and playwright.
+        # Only installing required external libraries: aiohttp and playwright.
         run: |
           pip install aiohttp playwright
           
@@ -65,10 +66,10 @@ jobs:
         id: create_release
         uses: softprops/action-gh-release@v2
         with:
-          # Use the run number for a unique tag and a timestamp for the name.
-          # FIX: Use the 'timestamp' expression for reliable date/time formatting.
+          # FIX: Simplified release name to prevent template errors. 
+          # Using the current UTC date/time (which is always available) and run number.
           tag_name: assets-hourly-${{ github.run_number }}
-          name: Hourly EPG Update (${{ format('{0:HH:mm} UTC', github.ref) }}) 
+          name: Hourly EPG Update - ${{ env.GITHUB_RUN_NUMBER }} - ${{ github.ref_name }}
           body: |
             This is an automated hourly update for the PPVLand EPG and Playlist.
             
