@@ -10,7 +10,6 @@ on:
         default: 'Manual run'
 
   # 2. Hourly Schedule: Runs the workflow at the 0th minute of every hour, every day (UTC)
-  # CRON expression: minute (0-59) hour (0-23) day-of-month (1-31) month (1-12) day-of-week (0-6)
   schedule:
     - cron: '0 * * * *'
 
@@ -18,7 +17,6 @@ jobs:
   build_and_release:
     runs-on: ubuntu-latest
     
-    # Prevents multiple hourly runs from piling up if the previous one is still running
     concurrency: 
       group: ${{ github.workflow }}-${{ github.ref }}
       cancel-in-progress: true
@@ -33,13 +31,11 @@ jobs:
           python-version: '3.10' 
 
       - name: 📦 Install Python Dependencies
-        # FIX: Removed 'gzip' and 'html' as they are part of the standard library.
-        # Only installing required external libraries: aiohttp and playwright.
+        # Installing required external libraries: aiohttp and playwright.
         run: |
           pip install aiohttp playwright
           
       - name: 🌐 Install Playwright Browsers (Firefox)
-        # This is mandatory for your 'ppv.py' script which uses Playwright
         run: |
           playwright install firefox
 
@@ -56,7 +52,6 @@ jobs:
           python ppv.py
           
       - name: ✅ Verify Generated Files
-        # Ensures both files exist before attempting to create the release
         run: |
           if [ -f PPVLand.xml.gz ] && [ -f PPVLand.m3u8 ]; then
             echo "Both PPVLand.xml.gz and PPVLand.m3u8 found."
@@ -67,13 +62,13 @@ jobs:
           fi
 
       - name: 🚀 Create GitHub Release and Upload Assets
-        # Creates a new release and attaches both files, giving you the stable EPG URL.
         id: create_release
         uses: softprops/action-gh-release@v2
         with:
-          # Use the run number for a unique tag each time
+          # Use the run number for a unique tag and a timestamp for the name.
+          # FIX: Use the 'timestamp' expression for reliable date/time formatting.
           tag_name: assets-hourly-${{ github.run_number }}
-          name: Hourly EPG Update (${{ format('{0:HH:mm}', github.event.scheduled) }} UTC)
+          name: Hourly EPG Update (${{ format('{0:HH:mm} UTC', github.ref) }}) 
           body: |
             This is an automated hourly update for the PPVLand EPG and Playlist.
             
