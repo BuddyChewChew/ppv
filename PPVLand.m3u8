@@ -7,7 +7,7 @@ https://gg.poocloud.in/southpark/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/cows/index.m3u8
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​​​​​‌​​‌​​​‌​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​​​​​‌​​‌​​​‌​ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌​‌‌​‌‌​​​​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌​‌‌​‌‌​​​​ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/familyguy/index.m3u8
@@ -27,35 +27,35 @@ https://gg.poocloud.in/ll_atm/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/seriea_tor/index.m3u8
-#EXTINF:-1 tvg-id="ppv-12822" tvg-name="Goal Arena" tvg-logo="https://api.ppv.to/assets/thumb/dd9a64549d7fa6bd306566b0093c32ba-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Goal Arena - 09:30 AM ET / 07:30 AM MT / 14:30 UK
+#EXTINF:-1 tvg-id="ppv-12822" tvg-name="Goal Arena" tvg-logo="https://api.ppv.to/assets/thumb/dd9a64549d7fa6bd306566b0093c32ba-thumbnail.jpg" group-title="PPVLand - Live Now",Goal Arena - 09:30 AM ET / 07:30 AM MT / 14:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bundesliga_goalarena/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14759" tvg-name="Gladbach vs. Wolfsburg" tvg-logo="https://api.ppv.to/assets/thumb/ad02a343f3f7c8ea512aee59b134a420-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Gladbach vs. Wolfsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK
+#EXTINF:-1 tvg-id="ppv-14759" tvg-name="Gladbach vs. Wolfsburg" tvg-logo="https://api.ppv.to/assets/thumb/ad02a343f3f7c8ea512aee59b134a420-thumbnail.jpg" group-title="PPVLand - Live Now",Gladbach vs. Wolfsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bundesliga_bmg/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14760" tvg-name="Frankfurt vs. Augsburg" tvg-logo="https://api.ppv.to/assets/thumb/8c37f91c714a7e88c48bc829cb4de7f8-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Frankfurt vs. Augsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK
+#EXTINF:-1 tvg-id="ppv-14760" tvg-name="Frankfurt vs. Augsburg" tvg-logo="https://api.ppv.to/assets/thumb/8c37f91c714a7e88c48bc829cb4de7f8-thumbnail.jpg" group-title="PPVLand - Live Now",Frankfurt vs. Augsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bundesliga_sge/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14761" tvg-name="St. Pauli vs. Heidenheim" tvg-logo="https://api.ppv.to/assets/thumb/7de87e55a97dc88d864eb1fa3858918a-thumbnail.jpg" group-title="PPVLand - Global Football Streams",St. Pauli vs. Heidenheim - 09:30 AM ET / 07:30 AM MT / 14:30 UK
+#EXTINF:-1 tvg-id="ppv-14761" tvg-name="St. Pauli vs. Heidenheim" tvg-logo="https://api.ppv.to/assets/thumb/7de87e55a97dc88d864eb1fa3858918a-thumbnail.jpg" group-title="PPVLand - Live Now",St. Pauli vs. Heidenheim - 09:30 AM ET / 07:30 AM MT / 14:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bundesliga_stp/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14762" tvg-name="Hoffenheim vs. Hamburg" tvg-logo="https://api.ppv.to/assets/thumb/6aef83fec9331d20997df47b8a85ecbe-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Hoffenheim vs. Hamburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK
+#EXTINF:-1 tvg-id="ppv-14762" tvg-name="Hoffenheim vs. Hamburg" tvg-logo="https://api.ppv.to/assets/thumb/6aef83fec9331d20997df47b8a85ecbe-thumbnail.jpg" group-title="PPVLand - Live Now",Hoffenheim vs. Hamburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bundesliga_tsg/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14751" tvg-name="Chelsea vs. Everton" tvg-logo="https://api.ppv.to/assets/thumb/61d2e0b372d0deb06396633b799fff71-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Chelsea vs. Everton - 10:00 AM ET / 08:00 AM MT / 15:00 UK
+#EXTINF:-1 tvg-id="ppv-14751" tvg-name="Chelsea vs. Everton" tvg-logo="https://api.ppv.to/assets/thumb/61d2e0b372d0deb06396633b799fff71-thumbnail.jpg" group-title="PPVLand - Live Now",Chelsea vs. Everton - 10:00 AM ET / 08:00 AM MT / 15:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/epl_che/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14753" tvg-name="Liverpool vs. Brighton and Hove Albion" tvg-logo="https://api.ppv.to/assets/thumb/9987c73d3cb4666c0230aecb9e6aa699-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Liverpool vs. Brighton and Hove Albion - 10:00 AM ET / 08:00 AM MT / 15:00 UK
+#EXTINF:-1 tvg-id="ppv-14753" tvg-name="Liverpool vs. Brighton and Hove Albion" tvg-logo="https://api.ppv.to/assets/thumb/9987c73d3cb4666c0230aecb9e6aa699-thumbnail.jpg" group-title="PPVLand - Live Now",Liverpool vs. Brighton and Hove Albion - 10:00 AM ET / 08:00 AM MT / 15:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/epl_liv/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14891" tvg-name="RCD Mallorca vs. Elche CF" tvg-logo="https://api.ppv.to/assets/thumb/be7a6967d15f1852474f2560a31014e1-thumbnail.jpg" group-title="PPVLand - Global Football Streams",RCD Mallorca vs. Elche CF - 10:15 AM ET / 08:15 AM MT / 15:15 UK
+#EXTINF:-1 tvg-id="ppv-14891" tvg-name="RCD Mallorca vs. Elche CF" tvg-logo="https://api.ppv.to/assets/thumb/be7a6967d15f1852474f2560a31014e1-thumbnail.jpg" group-title="PPVLand - Live Now",RCD Mallorca vs. Elche CF - 10:15 AM ET / 08:15 AM MT / 15:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_mll/index.m3u8
