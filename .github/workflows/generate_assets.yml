@@ -33,9 +33,10 @@ jobs:
           python-version: '3.10' 
 
       - name: 📦 Install Python Dependencies
-        # Install aiohttp, playwright, gzip, and html as required by your scripts
+        # FIX: Removed 'gzip' and 'html' as they are part of the standard library.
+        # Only installing required external libraries: aiohttp and playwright.
         run: |
-          pip install aiohttp playwright gzip html
+          pip install aiohttp playwright
           
       - name: 🌐 Install Playwright Browsers (Firefox)
         # This is mandatory for your 'ppv.py' script which uses Playwright
@@ -66,12 +67,11 @@ jobs:
           fi
 
       - name: 🚀 Create GitHub Release and Upload Assets
-        # Creates a new release and attaches both files.
-        # This provides the stable, public URLs needed for TiviMate and your playlist.
+        # Creates a new release and attaches both files, giving you the stable EPG URL.
         id: create_release
         uses: softprops/action-gh-release@v2
         with:
-          # Use a unique tag based on the UTC hour for the run
+          # Use the run number for a unique tag each time
           tag_name: assets-hourly-${{ github.run_number }}
           name: Hourly EPG Update (${{ format('{0:HH:mm}', github.event.scheduled) }} UTC)
           body: |
