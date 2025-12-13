@@ -7,7 +7,7 @@ https://gg.poocloud.in/southpark/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/cows/index.m3u8
-#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌​‌‌​‌‌​​​​ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌​‌‌​‌‌​​​​ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
+#EXTINF:-1 tvg-id="ppv-8008" tvg-name="24/7 Family‌​​‌​​​‌‌​​​​‌​​​‌‌​​‌‌‌​​​‌​​‌‌ Guy" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​​‌​​​‌‌​​​​‌​​​‌‌​​‌‌‌​​​‌​​‌‌ Guy - 03:00 AM ET / 01:00 AM MT / 08:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/familyguy/index.m3u8
@@ -19,14 +19,6 @@ https://gg.poocloud.in/thesimpsons/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14890" tvg-name="Atlético de Madrid vs. Valencia CF" tvg-logo="https://api.ppv.to/assets/thumb/48aa5c30a9eea2f8eccd73c17d086928-thumbnail.jpg" group-title="PPVLand - Live Now",Atlético de Madrid vs. Valencia CF - 08:00 AM ET / 06:00 AM MT / 13:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_atm/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14822" tvg-name="Torino vs. Cremonese" tvg-logo="https://api.ppv.to/assets/thumb/70b4351c063e5fcb75c361254315a71c-thumbnail.jpg" group-title="PPVLand - Live Now",Torino vs. Cremonese - 09:00 AM ET / 07:00 AM MT / 14:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/seriea_tor/index.m3u8
 #EXTINF:-1 tvg-id="ppv-12822" tvg-name="Goal Arena" tvg-logo="https://api.ppv.to/assets/thumb/dd9a64549d7fa6bd306566b0093c32ba-thumbnail.jpg" group-title="PPVLand - Live Now",Goal Arena - 09:30 AM ET / 07:30 AM MT / 14:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -59,7 +51,7 @@ https://gg.poocloud.in/epl_liv/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_mll/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14832" tvg-name="Rennes vs. Brest" tvg-logo="https://api.ppv.to/assets/thumb/06342935d7e5e56c58e451e6cea95bf4-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Rennes vs. Brest - 11:00 AM ET / 09:00 AM MT / 16:00 UK
+#EXTINF:-1 tvg-id="ppv-14832" tvg-name="Rennes vs. Brest" tvg-logo="https://api.ppv.to/assets/thumb/06342935d7e5e56c58e451e6cea95bf4-thumbnail.jpg" group-title="PPVLand - Live Now",Rennes vs. Brest - 11:00 AM ET / 09:00 AM MT / 16:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ligue1_ren/index.m3u8
