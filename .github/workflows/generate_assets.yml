@@ -1,0 +1,86 @@
+name: ▶️ Hourly Playlist and EPG Generation
+
+on:
+  # 1. Manual Trigger: Allows you to run the workflow manually from the Actions tab
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Reason for manual execution'
+        required: false
+        default: 'Manual run'
+
+  # 2. Hourly Schedule: Runs the workflow at the 0th minute of every hour, every day (UTC)
+  # CRON expression: minute (0-59) hour (0-23) day-of-month (1-31) month (1-12) day-of-week (0-6)
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  build_and_release:
+    runs-on: ubuntu-latest
+    
+    # Prevents multiple hourly runs from piling up if the previous one is still running
+    concurrency: 
+      group: ${{ github.workflow }}-${{ github.ref }}
+      cancel-in-progress: true
+
+    steps:
+      - name: ⬇️ Checkout Repository
+        uses: actions/checkout@v4
+        
+      - name: 🐍 Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10' 
+
+      - name: 📦 Install Python Dependencies
+        # Install aiohttp, playwright, gzip, and html as required by your scripts
+        run: |
+          pip install aiohttp playwright gzip html
+          
+      - name: 🌐 Install Playwright Browsers (Firefox)
+        # This is mandatory for your 'ppv.py' script which uses Playwright
+        run: |
+          playwright install firefox
+
+      - name: ⚙️ Run EPG Script (ppvepg.py)
+        # This script generates the PPVLand.xml.gz file
+        run: |
+          echo "Executing EPG script..."
+          python ppvepg.py
+          
+      - name: ⚙️ Run Playlist Script (ppv.py)
+        # This script generates the PPVLand.m3u8 file
+        run: |
+          echo "Executing Playlist script (requires Playwright)..."
+          python ppv.py
+          
+      - name: ✅ Verify Generated Files
+        # Ensures both files exist before attempting to create the release
+        run: |
+          if [ -f PPVLand.xml.gz ] && [ -f PPVLand.m3u8 ]; then
+            echo "Both PPVLand.xml.gz and PPVLand.m3u8 found."
+          else
+            echo "ERROR: Missing required output file(s)."
+            ls -l
+            exit 1
+          fi
+
+      - name: 🚀 Create GitHub Release and Upload Assets
+        # Creates a new release and attaches both files.
+        # This provides the stable, public URLs needed for TiviMate and your playlist.
+        id: create_release
+        uses: softprops/action-gh-release@v2
+        with:
+          # Use a unique tag based on the UTC hour for the run
+          tag_name: assets-hourly-${{ github.run_number }}
+          name: Hourly EPG Update (${{ format('{0:HH:mm}', github.event.scheduled) }} UTC)
+          body: |
+            This is an automated hourly update for the PPVLand EPG and Playlist.
+            
+            **For TiviMate EPG Source:** You must use the direct download URL for the `PPVLand.xml.gz` file found under "Assets" in this release.
+          
+          files: |
+            PPVLand.m3u8
+            PPVLand.xml.gz 
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
