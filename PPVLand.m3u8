@@ -19,10 +19,6 @@ https://gg.poocloud.in/thesimpsons/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14895" tvg-name="Celta vs. Athletic Club" tvg-logo="https://api.ppv.to/assets/thumb/79e7d13ee0293b7dc45f1b2580dec8c0-thumbnail.jpg" group-title="PPVLand - Live Now",Celta vs. Athletic Club - 10:15 AM ET / 08:15 AM MT / 15:15 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_cel/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14836" tvg-name="AJ Auxerre vs. LOSC" tvg-logo="https://api.ppv.to/assets/thumb/180459e998f8c92da13d1ce47e373b81-thumbnail.jpg" group-title="PPVLand - Live Now",AJ Auxerre vs. LOSC - 11:15 AM ET / 09:15 AM MT / 16:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -47,51 +43,51 @@ https://gg.poocloud.in/bundesliga_mun/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/seriea_gen/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14896" tvg-name="Levante UD vs. Villarreal CF" tvg-logo="https://api.ppv.to/assets/thumb/f0dd0e1b107be62875a44ea7f21b78bf-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Levante UD vs. Villarreal CF - 12:30 PM ET / 10:30 AM MT / 17:30 UK
+#EXTINF:-1 tvg-id="ppv-14896" tvg-name="Levante UD vs. Villarreal CF" tvg-logo="https://api.ppv.to/assets/thumb/f0dd0e1b107be62875a44ea7f21b78bf-thumbnail.jpg" group-title="PPVLand - Live Now",Levante UD vs. Villarreal CF - 12:30 PM ET / 10:30 AM MT / 17:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_lev/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14974" tvg-name="Vancouver Canucks vs. New Jersey Devils" tvg-logo="https://api.ppv.to/assets/thumb/e325b7989f9586302c04374c604b6a7c-thumbnail.jpg" group-title="PPVLand - NHL Action",Vancouver Canucks vs. New Jersey Devils - 12:30 PM ET / 10:30 AM MT / 17:30 UK
+#EXTINF:-1 tvg-id="ppv-14974" tvg-name="Vancouver Canucks vs. New Jersey Devils" tvg-logo="https://api.ppv.to/assets/thumb/e325b7989f9586302c04374c604b6a7c-thumbnail.jpg" group-title="PPVLand - Live Now",Vancouver Canucks vs. New Jersey Devils - 12:30 PM ET / 10:30 AM MT / 17:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/newjerseydevils/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14988" tvg-name="Vancouver Canucks vs. New Jersey Devils" tvg-logo="https://api.ppv.to/assets/thumb/b8e7dfd72c5351966fb0c7813be1a7ed-thumbnail.jpg" group-title="PPVLand - NHL Action",Vancouver Canucks vs. New Jersey Devils - 12:30 PM ET / 10:30 AM MT / 17:30 UK
+#EXTINF:-1 tvg-id="ppv-14988" tvg-name="Vancouver Canucks vs. New Jersey Devils" tvg-logo="https://api.ppv.to/assets/thumb/b8e7dfd72c5351966fb0c7813be1a7ed-thumbnail.jpg" group-title="PPVLand - Live Now",Vancouver Canucks vs. New Jersey Devils - 12:30 PM ET / 10:30 AM MT / 17:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/newjerseydevils/index.m3u8
-#EXTINF:-1 tvg-id="ppv-11090" tvg-name="NFL RedZone" tvg-logo="https://api.ppv.to/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg" group-title="PPVLand - NFL Action",NFL RedZone - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTINF:-1 tvg-id="ppv-11090" tvg-name="NFL RedZone" tvg-logo="https://api.ppv.to/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg" group-title="PPVLand - Live Now",NFL RedZone - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/redzone/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14847" tvg-name="Cleveland Browns vs. Chicago Bears" tvg-logo="https://api.ppv.to/assets/thumb/331f55b0ccf9ea1f6b5d3882f51e3cc4-thumbnail.jpg" group-title="PPVLand - NFL Action",Cleveland Browns vs. Chicago Bears - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTINF:-1 tvg-id="ppv-14847" tvg-name="Cleveland Browns vs. Chicago Bears" tvg-logo="https://api.ppv.to/assets/thumb/331f55b0ccf9ea1f6b5d3882f51e3cc4-thumbnail.jpg" group-title="PPVLand - Live Now",Cleveland Browns vs. Chicago Bears - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/chicagobears/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14849" tvg-name="Baltimore Ravens vs. Cincinnati Bengals" tvg-logo="https://api.ppv.to/assets/thumb/7f0d7358d43fed43500c9376a6ba8d27-thumbnail.jpg" group-title="PPVLand - NFL Action",Baltimore Ravens vs. Cincinnati Bengals - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTINF:-1 tvg-id="ppv-14849" tvg-name="Baltimore Ravens vs. Cincinnati Bengals" tvg-logo="https://api.ppv.to/assets/thumb/7f0d7358d43fed43500c9376a6ba8d27-thumbnail.jpg" group-title="PPVLand - Live Now",Baltimore Ravens vs. Cincinnati Bengals - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/cincinnatibengals/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14851" tvg-name="Los Angeles Chargers vs. Kansas City Chiefs" tvg-logo="https://api.ppv.to/assets/thumb/9aa6db2cb34f30f03ff2ca403f557a97-thumbnail.jpg" group-title="PPVLand - NFL Action",Los Angeles Chargers vs. Kansas City Chiefs - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTINF:-1 tvg-id="ppv-14851" tvg-name="Los Angeles Chargers vs. Kansas City Chiefs" tvg-logo="https://api.ppv.to/assets/thumb/9aa6db2cb34f30f03ff2ca403f557a97-thumbnail.jpg" group-title="PPVLand - Live Now",Los Angeles Chargers vs. Kansas City Chiefs - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/kansascitychiefs/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14853" tvg-name="Buffalo Bills vs. New England Patriots" tvg-logo="https://api.ppv.to/assets/thumb/c4d92bee4575f1a1cc0916f4ad8d806a-thumbnail.jpg" group-title="PPVLand - NFL Action",Buffalo Bills vs. New England Patriots - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTINF:-1 tvg-id="ppv-14853" tvg-name="Buffalo Bills vs. New England Patriots" tvg-logo="https://api.ppv.to/assets/thumb/c4d92bee4575f1a1cc0916f4ad8d806a-thumbnail.jpg" group-title="PPVLand - Live Now",Buffalo Bills vs. New England Patriots - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/newenglandpatriots/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14854" tvg-name="Washington Commanders vs. New York Giants" tvg-logo="https://api.ppv.to/assets/thumb/d3bed08ae847621c6fa87081347b2491-thumbnail.jpg" group-title="PPVLand - NFL Action",Washington Commanders vs. New York Giants - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTINF:-1 tvg-id="ppv-14854" tvg-name="Washington Commanders vs. New York Giants" tvg-logo="https://api.ppv.to/assets/thumb/d3bed08ae847621c6fa87081347b2491-thumbnail.jpg" group-title="PPVLand - Live Now",Washington Commanders vs. New York Giants - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/newyorkgiants/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14857" tvg-name="Las Vegas Raiders vs. Philadelphia Eagles" tvg-logo="https://api.ppv.to/assets/thumb/31461c4c3b05f1569c99449b064dc6f9-thumbnail.jpg" group-title="PPVLand - NFL Action",Las Vegas Raiders vs. Philadelphia Eagles - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTINF:-1 tvg-id="ppv-14857" tvg-name="Las Vegas Raiders vs. Philadelphia Eagles" tvg-logo="https://api.ppv.to/assets/thumb/31461c4c3b05f1569c99449b064dc6f9-thumbnail.jpg" group-title="PPVLand - Live Now",Las Vegas Raiders vs. Philadelphia Eagles - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/philadelphiaeagles/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14858" tvg-name="New York Jets vs. Jacksonville Jaguars" tvg-logo="https://api.ppv.to/assets/thumb/da4df743e8a95551903223a7d202980a-thumbnail.jpg" group-title="PPVLand - NFL Action",New York Jets vs. Jacksonville Jaguars - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTINF:-1 tvg-id="ppv-14858" tvg-name="New York Jets vs. Jacksonville Jaguars" tvg-logo="https://api.ppv.to/assets/thumb/da4df743e8a95551903223a7d202980a-thumbnail.jpg" group-title="PPVLand - Live Now",New York Jets vs. Jacksonville Jaguars - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14859" tvg-name="Arizona Cardinals vs. Houston Texans" tvg-logo="https://api.ppv.to/assets/thumb/bbb2b9347436cda3f7026ffdeee4d2e7-thumbnail.jpg" group-title="PPVLand - NFL Action",Arizona Cardinals vs. Houston Texans - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTINF:-1 tvg-id="ppv-14859" tvg-name="Arizona Cardinals vs. Houston Texans" tvg-logo="https://api.ppv.to/assets/thumb/bbb2b9347436cda3f7026ffdeee4d2e7-thumbnail.jpg" group-title="PPVLand - Live Now",Arizona Cardinals vs. Houston Texans - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/houstontexans/index.m3u8
