@@ -15,10 +15,6 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14825" tvg-name="Milan vs. Sassuolo" tvg-logo="https://api.ppv.to/assets/thumb/4b5d4fb12fe9e9cfea6211c5dacea8cf-thumbnail.jpg" group-title="PPVLand - Live Now",Milan vs. Sassuolo - 06:30 AM ET / 04:30 AM MT / 11:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/seriea_mil/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14899" tvg-name="World Darts Championship" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="PPVLand - Live Now",World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -27,35 +23,35 @@ https://gg.poocloud.in/darts/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_sev/index.m3u8
-#EXTINF:-1 tvg-id="ppv-5193" tvg-name="Goal Rush" tvg-logo="https://api.ppv.to/assets/thumb/8053ee46d14de16c3993fea458359cd8-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Goal Rush - 09:00 AM ET / 07:00 AM MT / 14:00 UK
+#EXTINF:-1 tvg-id="ppv-5193" tvg-name="Goal Rush" tvg-logo="https://api.ppv.to/assets/thumb/8053ee46d14de16c3993fea458359cd8-thumbnail.jpg" group-title="PPVLand - Live Now",Goal Rush - 09:00 AM ET / 07:00 AM MT / 14:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/epl_goalrush/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14752" tvg-name="Crystal Palace vs. Manchester City" tvg-logo="https://api.ppv.to/assets/thumb/c357a97d1f9a3b5811da38bc1daf0640-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Crystal Palace vs. Manchester City - 09:00 AM ET / 07:00 AM MT / 14:00 UK
+#EXTINF:-1 tvg-id="ppv-14752" tvg-name="Crystal Palace vs. Manchester City" tvg-logo="https://api.ppv.to/assets/thumb/c357a97d1f9a3b5811da38bc1daf0640-thumbnail.jpg" group-title="PPVLand - Live Now",Crystal Palace vs. Manchester City - 09:00 AM ET / 07:00 AM MT / 14:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/epl_cry/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14755" tvg-name="Nottingham Forest vs. Tottenham Hotspur" tvg-logo="https://api.ppv.to/assets/thumb/1fe4a906b51da4049de38fc11c7fec97-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Nottingham Forest vs. Tottenham Hotspur - 09:00 AM ET / 07:00 AM MT / 14:00 UK
+#EXTINF:-1 tvg-id="ppv-14755" tvg-name="Nottingham Forest vs. Tottenham Hotspur" tvg-logo="https://api.ppv.to/assets/thumb/1fe4a906b51da4049de38fc11c7fec97-thumbnail.jpg" group-title="PPVLand - Live Now",Nottingham Forest vs. Tottenham Hotspur - 09:00 AM ET / 07:00 AM MT / 14:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/epl_nfo/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14756" tvg-name="Sunderland vs. Newcastle United" tvg-logo="https://api.ppv.to/assets/thumb/0226a34e5f02f802ef32ebe41755c53b-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Sunderland vs. Newcastle United - 09:00 AM ET / 07:00 AM MT / 14:00 UK
+#EXTINF:-1 tvg-id="ppv-14756" tvg-name="Sunderland vs. Newcastle United" tvg-logo="https://api.ppv.to/assets/thumb/0226a34e5f02f802ef32ebe41755c53b-thumbnail.jpg" group-title="PPVLand - Live Now",Sunderland vs. Newcastle United - 09:00 AM ET / 07:00 AM MT / 14:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/epl_sun/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14757" tvg-name="West Ham United vs. Aston Villa" tvg-logo="https://api.ppv.to/assets/thumb/68b8c77998ec7d65fc402f67f4abbc80-thumbnail.jpg" group-title="PPVLand - Global Football Streams",West Ham United vs. Aston Villa - 09:00 AM ET / 07:00 AM MT / 14:00 UK
+#EXTINF:-1 tvg-id="ppv-14757" tvg-name="West Ham United vs. Aston Villa" tvg-logo="https://api.ppv.to/assets/thumb/68b8c77998ec7d65fc402f67f4abbc80-thumbnail.jpg" group-title="PPVLand - Live Now",West Ham United vs. Aston Villa - 09:00 AM ET / 07:00 AM MT / 14:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/epl_whu/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14826" tvg-name="Fiorentina vs. Hellas Verona" tvg-logo="https://api.ppv.to/assets/thumb/5933a0a125fe4a50dbfa8a27943b2668-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Fiorentina vs. Hellas Verona - 09:00 AM ET / 07:00 AM MT / 14:00 UK
+#EXTINF:-1 tvg-id="ppv-14826" tvg-name="Fiorentina vs. Hellas Verona" tvg-logo="https://api.ppv.to/assets/thumb/5933a0a125fe4a50dbfa8a27943b2668-thumbnail.jpg" group-title="PPVLand - Live Now",Fiorentina vs. Hellas Verona - 09:00 AM ET / 07:00 AM MT / 14:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/seriea_fio/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14827" tvg-name="Udinese vs. Napoli" tvg-logo="https://api.ppv.to/assets/thumb/76943305891882a3431cd0427bed4d99-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Udinese vs. Napoli - 09:00 AM ET / 07:00 AM MT / 14:00 UK
+#EXTINF:-1 tvg-id="ppv-14827" tvg-name="Udinese vs. Napoli" tvg-logo="https://api.ppv.to/assets/thumb/76943305891882a3431cd0427bed4d99-thumbnail.jpg" group-title="PPVLand - Live Now",Udinese vs. Napoli - 09:00 AM ET / 07:00 AM MT / 14:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/seriea_udi/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14835" tvg-name="OL vs. Havre AC" tvg-logo="https://api.ppv.to/assets/thumb/d4cda4f296492b5b6b401cdd0655b4a4-thumbnail.jpg" group-title="PPVLand - Global Football Streams",OL vs. Havre AC - 09:00 AM ET / 07:00 AM MT / 14:00 UK
+#EXTINF:-1 tvg-id="ppv-14835" tvg-name="OL vs. Havre AC" tvg-logo="https://api.ppv.to/assets/thumb/d4cda4f296492b5b6b401cdd0655b4a4-thumbnail.jpg" group-title="PPVLand - Live Now",OL vs. Havre AC - 09:00 AM ET / 07:00 AM MT / 14:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ligue1_lyn/index.m3u8
