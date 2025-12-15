@@ -15,26 +15,6 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14978" tvg-name="Philadelphia 76ers vs. Atlanta Hawks" tvg-logo="https://api.ppv.to/assets/thumb/8cf96c9d56bc5d80b9864b878cd98b03-thumbnail.jpg" group-title="PPVLand - Live Now",Philadelphia 76ers vs. Atlanta Hawks - 06:00 PM ET / 04:00 PM MT / 23:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/atlantahawks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14980" tvg-name="Milwaukee Bucks vs. Brooklyn Nets" tvg-logo="https://api.ppv.to/assets/thumb/eb11f363b5901cbe3dfe3a2ee20c4a8a-thumbnail.jpg" group-title="PPVLand - Live Now",Milwaukee Bucks vs. Brooklyn Nets - 06:00 PM ET / 04:00 PM MT / 23:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/brooklynnets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14979" tvg-name="Boston Bruins vs. Minnesota Wild" tvg-logo="https://api.ppv.to/assets/thumb/a53d4e193e7dcb0b01ba856e70aac292-thumbnail.jpg" group-title="PPVLand - Live Now",Boston Bruins vs. Minnesota Wild - 06:00 PM ET / 04:00 PM MT / 23:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/minnesotawild/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14982" tvg-name="Sacramento Kings vs. Minnesota Timberwolves" tvg-logo="https://api.ppv.to/assets/thumb/2faf5f4cd6bcc181058346a7c4168c8f-thumbnail.jpg" group-title="PPVLand - Live Now",Sacramento Kings vs. Minnesota Timberwolves - 07:00 PM ET / 05:00 PM MT / 00:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/minnesotatimberwolves/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14983" tvg-name="New Orleans Pelicans vs. Chicago Bulls" tvg-logo="https://api.ppv.to/assets/thumb/1e328a829ee21d3753531a2a7b2b231a-thumbnail.jpg" group-title="PPVLand - Live Now",New Orleans Pelicans vs. Chicago Bulls - 07:00 PM ET / 05:00 PM MT / 00:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/chicagobulls/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14981" tvg-name="Edmonton Oilers vs. Montreal Canadiens" tvg-logo="https://api.ppv.to/assets/thumb/0a8e6781dfb1d8ed75ecb11d42f7e5e0-thumbnail.jpg" group-title="PPVLand - Live Now",Edmonton Oilers vs. Montreal Canadiens - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -47,11 +27,11 @@ https://gg.poocloud.in/phoenixsuns/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/seattlekraken/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14868" tvg-name="Minnesota Vikings vs. Dallas Cowboys" tvg-logo="https://api.ppv.to/assets/thumb/f2eb28e7e738bbae8dfff77cb5bbd1e7-thumbnail.jpg" group-title="PPVLand - NFL Action",Minnesota Vikings vs. Dallas Cowboys - 08:20 PM ET / 06:20 PM MT / 01:20 UK
+#EXTINF:-1 tvg-id="ppv-14868" tvg-name="Minnesota Vikings vs. Dallas Cowboys" tvg-logo="https://api.ppv.to/assets/thumb/f2eb28e7e738bbae8dfff77cb5bbd1e7-thumbnail.jpg" group-title="PPVLand - Live Now",Minnesota Vikings vs. Dallas Cowboys - 08:20 PM ET / 06:20 PM MT / 01:20 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/dallascowboys/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14987" tvg-name="Golden State Warriors vs. Portland Trail Blazers" tvg-logo="https://api.ppv.to/assets/thumb/390bba224dbec21d6133ccd86624d623-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Golden State Warriors vs. Portland Trail Blazers - 09:00 PM ET / 07:00 PM MT / 02:00 UK
+#EXTINF:-1 tvg-id="ppv-14987" tvg-name="Golden State Warriors vs. Portland Trail Blazers" tvg-logo="https://api.ppv.to/assets/thumb/390bba224dbec21d6133ccd86624d623-thumbnail.jpg" group-title="PPVLand - Live Now",Golden State Warriors vs. Portland Trail Blazers - 09:00 PM ET / 07:00 PM MT / 02:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/portlandtrailblazers/index.m3u8
