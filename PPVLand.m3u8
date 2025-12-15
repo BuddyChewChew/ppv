@@ -19,18 +19,6 @@ https://gg.poocloud.in/thesimpsons/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15033" tvg-name="AS Roma vs. Como" tvg-logo="https://api.ppv.to/assets/thumb/35db0415cf320547fc421d1d0f24e3b7-thumbnail.jpg" group-title="PPVLand - Live Now",AS Roma vs. Como - 02:45 PM ET / 12:45 PM MT / 19:45 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_roma/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14754" tvg-name="Manchester United vs. Bournemouth" tvg-logo="https://api.ppv.to/assets/thumb/26de76502695f04ee7970475329dfd5d-thumbnail.jpg" group-title="PPVLand - Live Now",Manchester United vs. Bournemouth - 03:00 PM ET / 01:00 PM MT / 20:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/epl_mun/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14898" tvg-name="Rayo Vallecano vs. Real Betis" tvg-logo="https://api.ppv.to/assets/thumb/67224d9a7e9c4021ad8b22dc0cd02144-thumbnail.jpg" group-title="PPVLand - Live Now",Rayo Vallecano vs. Real Betis - 03:00 PM ET / 01:00 PM MT / 20:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_ray/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15040" tvg-name="Detroit Pistons vs. Boston Celtics" tvg-logo="https://api.ppv.to/assets/thumb/502ee288d8c5f7ab355bcf1d839ea1c1-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Detroit Pistons vs. Boston Celtics - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
