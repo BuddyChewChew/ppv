@@ -15,14 +15,6 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14868" tvg-name="Minnesota Vikings vs. Dallas Cowboys" tvg-logo="https://api.ppv.to/assets/thumb/f2eb28e7e738bbae8dfff77cb5bbd1e7-thumbnail.jpg" group-title="PPVLand - Live Now",Minnesota Vikings vs. Dallas Cowboys - 08:20 PM ET / 06:20 PM MT / 01:20 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/dallascowboys/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14987" tvg-name="Golden State Warriors vs. Portland Trail Blazers" tvg-logo="https://api.ppv.to/assets/thumb/390bba224dbec21d6133ccd86624d623-thumbnail.jpg" group-title="PPVLand - Live Now",Golden State Warriors vs. Portland Trail Blazers - 09:00 PM ET / 07:00 PM MT / 02:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/portlandtrailblazers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15033" tvg-name="AS Roma vs. Como" tvg-logo="https://api.ppv.to/assets/thumb/35db0415cf320547fc421d1d0f24e3b7-thumbnail.jpg" group-title="PPVLand - Global Football Streams",AS Roma vs. Como - 02:45 PM ET / 12:45 PM MT / 19:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -35,10 +27,50 @@ https://gg.poocloud.in/epl_mun/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_ray/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15040" tvg-name="Detroit Pistons vs. Boston Celtics" tvg-logo="https://api.ppv.to/assets/thumb/502ee288d8c5f7ab355bcf1d839ea1c1-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Detroit Pistons vs. Boston Celtics - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/bostonceltics/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15041" tvg-name="Florida Panthers vs. Tampa Bay Lightning" tvg-logo="https://api.ppv.to/assets/thumb/ebf178cbed21ba243bd01e0f9a2cc62c-thumbnail.jpg" group-title="PPVLand - NHL Action",Florida Panthers vs. Tampa Bay Lightning - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/tampabaylightning/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15043" tvg-name="Anaheim Ducks vs. New York Rangers" tvg-logo="https://api.ppv.to/assets/thumb/ac238de826f1edb9dc13121861fbf658-thumbnail.jpg" group-title="PPVLand - NHL Action",Anaheim Ducks vs. New York Rangers - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/newyorkrangers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15042" tvg-name="Toronto Raptors vs. Miami Heat" tvg-logo="https://api.ppv.to/assets/thumb/ea6d45875018e9d859df36e19c94c50c-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Toronto Raptors vs. Miami Heat - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/miamiheat/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15045" tvg-name="Ottawa Senators vs. Winnipeg Jets" tvg-logo="https://api.ppv.to/assets/thumb/2902270c4fcc8958c53774e4b07a2c42-thumbnail.jpg" group-title="PPVLand - NHL Action",Ottawa Senators vs. Winnipeg Jets - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/winnipegjets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15048" tvg-name="Nashville Predators vs. St. Louis Blues" tvg-logo="https://api.ppv.to/assets/thumb/3d285228e188869b65975366360e8aeb-thumbnail.jpg" group-title="PPVLand - NHL Action",Nashville Predators vs. St. Louis Blues - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/stlouisblues/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15050" tvg-name="Los Angeles Kings vs. Dallas Stars" tvg-logo="https://api.ppv.to/assets/thumb/8ca795455de161bdc2e51e4221cb006d-thumbnail.jpg" group-title="PPVLand - NHL Action",Los Angeles Kings vs. Dallas Stars - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/dallasstars/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14869" tvg-name="Miami Dolphins vs. Pittsburgh Steelers" tvg-logo="https://api.ppv.to/assets/thumb/fe25ffce3016f007f0c72f24acf143ca-thumbnail.jpg" group-title="PPVLand - NFL Action",Miami Dolphins vs. Pittsburgh Steelers - 08:15 PM ET / 06:15 PM MT / 01:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pittsburghsteelers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15046" tvg-name="Dallas Mavericks vs. Utah Jazz" tvg-logo="https://api.ppv.to/assets/thumb/53e7b6d857c4ed0ed5991d6487cf7aeb-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Dallas Mavericks vs. Utah Jazz - 09:00 PM ET / 07:00 PM MT / 02:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/utahjazz/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15047" tvg-name="Houston Rockets vs. Denver Nuggets" tvg-logo="https://api.ppv.to/assets/thumb/87c0047c26fb2eca97ac9d4831568807-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Houston Rockets vs. Denver Nuggets - 09:30 PM ET / 07:30 PM MT / 02:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/denvernuggets/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15049" tvg-name="Memphis Grizzlies vs. LA Clippers" tvg-logo="https://api.ppv.to/assets/thumb/188d77d66826cf6207bbf1804c7e2d95-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Memphis Grizzlies vs. LA Clippers - 10:30 PM ET / 08:30 PM MT / 03:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/laclippers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15014" tvg-name="Borussia Dortmund vs. Borussia Mönchengladbach" tvg-logo="https://api.ppv.to/assets/thumb/55dd26f95ebc5860ec9d446e4941e93e-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Borussia Dortmund vs. Borussia Mönchengladbach - 02:30 PM ET / 12:30 PM MT / 19:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
