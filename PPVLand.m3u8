@@ -15,39 +15,35 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14899" tvg-name="World Darts Championship" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="PPVLand - Live Now",World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15040" tvg-name="Detroit Pistons vs. Boston Celtics" tvg-logo="https://api.ppv.to/assets/thumb/502ee288d8c5f7ab355bcf1d839ea1c1-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Detroit Pistons vs. Boston Celtics - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTINF:-1 tvg-id="ppv-15040" tvg-name="Detroit Pistons vs. Boston Celtics" tvg-logo="https://api.ppv.to/assets/thumb/502ee288d8c5f7ab355bcf1d839ea1c1-thumbnail.jpg" group-title="PPVLand - Live Now",Detroit Pistons vs. Boston Celtics - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bostonceltics/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15041" tvg-name="Florida Panthers vs. Tampa Bay Lightning" tvg-logo="https://api.ppv.to/assets/thumb/ebf178cbed21ba243bd01e0f9a2cc62c-thumbnail.jpg" group-title="PPVLand - NHL Action",Florida Panthers vs. Tampa Bay Lightning - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTINF:-1 tvg-id="ppv-15041" tvg-name="Florida Panthers vs. Tampa Bay Lightning" tvg-logo="https://api.ppv.to/assets/thumb/ebf178cbed21ba243bd01e0f9a2cc62c-thumbnail.jpg" group-title="PPVLand - Live Now",Florida Panthers vs. Tampa Bay Lightning - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/tampabaylightning/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15043" tvg-name="Anaheim Ducks vs. New York Rangers" tvg-logo="https://api.ppv.to/assets/thumb/ac238de826f1edb9dc13121861fbf658-thumbnail.jpg" group-title="PPVLand - NHL Action",Anaheim Ducks vs. New York Rangers - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTINF:-1 tvg-id="ppv-15043" tvg-name="Anaheim Ducks vs. New York Rangers" tvg-logo="https://api.ppv.to/assets/thumb/ac238de826f1edb9dc13121861fbf658-thumbnail.jpg" group-title="PPVLand - Live Now",Anaheim Ducks vs. New York Rangers - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/newyorkrangers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15057" tvg-name="Florida Panthers vs. Tampa Bay Lightning" tvg-logo="https://api.ppv.to/assets/thumb/a6b01a2f457085166b9da096ce199722-thumbnail.jpg" group-title="PPVLand - NHL Action",Florida Panthers vs. Tampa Bay Lightning - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTINF:-1 tvg-id="ppv-15057" tvg-name="Florida Panthers vs. Tampa Bay Lightning" tvg-logo="https://api.ppv.to/assets/thumb/a6b01a2f457085166b9da096ce199722-thumbnail.jpg" group-title="PPVLand - Live Now",Florida Panthers vs. Tampa Bay Lightning - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/tampabaylightning/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15058" tvg-name="Anaheim Ducks vs. New York Rangers" tvg-logo="https://api.ppv.to/assets/thumb/d5a00691c931769c263c8155593f25d5-thumbnail.jpg" group-title="PPVLand - NHL Action",Anaheim Ducks vs. New York Rangers - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTINF:-1 tvg-id="ppv-15058" tvg-name="Anaheim Ducks vs. New York Rangers" tvg-logo="https://api.ppv.to/assets/thumb/d5a00691c931769c263c8155593f25d5-thumbnail.jpg" group-title="PPVLand - Live Now",Anaheim Ducks vs. New York Rangers - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/newyorkrangers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15042" tvg-name="Toronto Raptors vs. Miami Heat" tvg-logo="https://api.ppv.to/assets/thumb/ea6d45875018e9d859df36e19c94c50c-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Toronto Raptors vs. Miami Heat - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTINF:-1 tvg-id="ppv-15042" tvg-name="Toronto Raptors vs. Miami Heat" tvg-logo="https://api.ppv.to/assets/thumb/ea6d45875018e9d859df36e19c94c50c-thumbnail.jpg" group-title="PPVLand - Live Now",Toronto Raptors vs. Miami Heat - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/miamiheat/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15045" tvg-name="Ottawa Senators vs. Winnipeg Jets" tvg-logo="https://api.ppv.to/assets/thumb/2902270c4fcc8958c53774e4b07a2c42-thumbnail.jpg" group-title="PPVLand - NHL Action",Ottawa Senators vs. Winnipeg Jets - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTINF:-1 tvg-id="ppv-15045" tvg-name="Ottawa Senators vs. Winnipeg Jets" tvg-logo="https://api.ppv.to/assets/thumb/2902270c4fcc8958c53774e4b07a2c42-thumbnail.jpg" group-title="PPVLand - Live Now",Ottawa Senators vs. Winnipeg Jets - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/winnipegjets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15059" tvg-name="Ottawa Senators vs. Winnipeg Jets" tvg-logo="https://api.ppv.to/assets/thumb/71bd07863d204d3414f9dee8239f050c-thumbnail.jpg" group-title="PPVLand - NHL Action",Ottawa Senators vs. Winnipeg Jets - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTINF:-1 tvg-id="ppv-15059" tvg-name="Ottawa Senators vs. Winnipeg Jets" tvg-logo="https://api.ppv.to/assets/thumb/71bd07863d204d3414f9dee8239f050c-thumbnail.jpg" group-title="PPVLand - Live Now",Ottawa Senators vs. Winnipeg Jets - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/winnipegjets/index.m3u8
