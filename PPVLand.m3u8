@@ -247,10 +247,6 @@ https://gg.poocloud.in/carolinapanthers/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_gen/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15012" tvg-name="Real Betis vs. Getafe" tvg-logo="https://api.ppv.to/assets/thumb/d8824e911f824d9398a6198689bffff8-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Real Betis vs. Getafe - 03:00 PM ET / 01:00 PM MT / 20:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_bet/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15083" tvg-name="Jacksonville Jaguars vs. Denver Broncos" tvg-logo="https://api.ppv.to/assets/thumb/bba0afadffddc0def3cfbe54fa09e5f1-thumbnail.jpg" group-title="PPVLand - NFL Action",Jacksonville Jaguars vs. Denver Broncos - 04:05 PM ET / 02:05 PM MT / 21:05 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
