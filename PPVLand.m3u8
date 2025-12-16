@@ -15,14 +15,6 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15047" tvg-name="Houston Rockets vs. Denver Nuggets" tvg-logo="https://api.ppv.to/assets/thumb/87c0047c26fb2eca97ac9d4831568807-thumbnail.jpg" group-title="PPVLand - Live Now",Houston Rockets vs. Denver Nuggets - 09:30 PM ET / 07:30 PM MT / 02:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/denvernuggets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15049" tvg-name="Memphis Grizzlies vs. LA Clippers" tvg-logo="https://api.ppv.to/assets/thumb/188d77d66826cf6207bbf1804c7e2d95-thumbnail.jpg" group-title="PPVLand - Live Now",Memphis Grizzlies vs. LA Clippers - 10:30 PM ET / 08:30 PM MT / 03:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/laclippers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15062" tvg-name="Utah Mammoth vs. Boston Bruins" tvg-logo="https://api.ppv.to/assets/thumb/be4d839fca28d8cfe53d8479d4fd036c-thumbnail.jpg" group-title="PPVLand - NHL Action",Utah Mammoth vs. Boston Bruins - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
