@@ -15,10 +15,6 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15089" tvg-name="IPL Auction 2026" tvg-logo="https://api.ppv.to/assets/thumb/09f92010b55c5a1c15dfaf7ed3322d00-thumbnail.jpg" group-title="PPVLand - Live Now",IPL Auction 2026 - 04:00 AM ET / 02:00 AM MT / 09:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ipl-auction/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14899" tvg-name="World Darts Championship" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="PPVLand - Live Now",World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -27,6 +23,10 @@ https://gg.poocloud.in/darts/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/efl_car/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15111" tvg-name="CD Guadalajara vs Barcelona" tvg-logo="https://api.ppv.to/assets/thumb/53ee005a6d754edcce487d378e1dd2d5-thumbnail.jpg" group-title="PPVLand - Global Football Streams",CD Guadalajara vs Barcelona - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/cdr_guadalajara/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15062" tvg-name="Utah Mammoth vs. Boston Bruins" tvg-logo="https://api.ppv.to/assets/thumb/be4d839fca28d8cfe53d8479d4fd036c-thumbnail.jpg" group-title="PPVLand - NHL Action",Utah Mammoth vs. Boston Bruins - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
