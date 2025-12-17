@@ -51,10 +51,38 @@ https://gg.poocloud.in/efl_mnc/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/efl_new/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15124" tvg-name="Los Angeles Kings vs. Florida Panthers" tvg-logo="https://api.ppv.to/assets/thumb/b0023d5f12d1a01262179c927f4eb79b-thumbnail.jpg" group-title="PPVLand - NHL Action",Los Angeles Kings vs. Florida Panthers - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/floridapanthers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15125" tvg-name="Utah Mammoth vs. Detroit Red Wings" tvg-logo="https://api.ppv.to/assets/thumb/dcf00b9bfebfd8feb251efb40b828626-thumbnail.jpg" group-title="PPVLand - NHL Action",Utah Mammoth vs. Detroit Red Wings - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/detroitredwings/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15123" tvg-name="Cleveland Cavaliers vs. Chicago Bulls" tvg-logo="https://api.ppv.to/assets/thumb/13c690ab603a7217b3e81cb4ba6ac4d9-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Cleveland Cavaliers vs. Chicago Bulls - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/chicagobulls/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15126" tvg-name="Memphis Grizzlies vs. Minnesota Timberwolves" tvg-logo="https://api.ppv.to/assets/thumb/6249196c6656611a63c539ab5ef1c976-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Memphis Grizzlies vs. Minnesota Timberwolves - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/minnesotatimberwolves/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15127" tvg-name="Winnipeg Jets vs. St. Louis Blues" tvg-logo="https://api.ppv.to/assets/thumb/caea7cccd52bea425b9f025834744975-thumbnail.jpg" group-title="PPVLand - NHL Action",Winnipeg Jets vs. St. Louis Blues - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/stlouisblues/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15128" tvg-name="Carolina Hurricanes vs. Nashville Predators" tvg-logo="https://api.ppv.to/assets/thumb/df6d1c1b076c39eb3f5c7252c7998352-thumbnail.jpg" group-title="PPVLand - NHL Action",Carolina Hurricanes vs. Nashville Predators - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/nashvillepredators/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15053" tvg-name="AEW: Wednesday Night Dynamite" tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="PPVLand - Wrestling Events",AEW: Wednesday Night Dynamite - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15129" tvg-name="New Jersey Devils vs. Vegas Golden Knights" tvg-logo="https://api.ppv.to/assets/thumb/9a2835de0f127282ab2407a9d44721b2-thumbnail.jpg" group-title="PPVLand - NHL Action",New Jersey Devils vs. Vegas Golden Knights - 10:00 PM ET / 08:00 PM MT / 03:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/vegasgoldenknights/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15093" tvg-name="AZ Alkmaar vs. Jagiellonia" tvg-logo="https://api.ppv.to/assets/thumb/8fdbdc145fa85aa3e681bd115970a5a5-thumbnail.jpg" group-title="PPVLand - Global Football Streams",AZ Alkmaar vs. Jagiellonia - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
