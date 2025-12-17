@@ -15,19 +15,15 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15133" tvg-name="Paris Saint-Germain vs. CR Flamengo" tvg-logo="https://api.ppv.to/assets/thumb/d6f700da808bd0fe67d6600a58b6bc96-thumbnail.jpg" group-title="PPVLand - Live Now",Paris Saint-Germain vs. CR Flamengo - 12:00 PM ET / 10:00 AM MT / 17:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/fifaplus/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14899" tvg-name="World Darts Championship" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="PPVLand - Live Now",World Darts Championship - 02:00 PM ET / 12:00 PM MT / 19:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15091" tvg-name="Manchester City vs. Brentford" tvg-logo="https://api.ppv.to/assets/thumb/182401495b0d7e0d91789945291f8e0f-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Manchester City vs. Brentford - 02:30 PM ET / 12:30 PM MT / 19:30 UK
+#EXTINF:-1 tvg-id="ppv-15091" tvg-name="Manchester City vs. Brentford" tvg-logo="https://api.ppv.to/assets/thumb/182401495b0d7e0d91789945291f8e0f-thumbnail.jpg" group-title="PPVLand - Live Now",Manchester City vs. Brentford - 02:30 PM ET / 12:30 PM MT / 19:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/efl_mnc/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15131" tvg-name="Talavera vs. Real Madrid" tvg-logo="https://api.ppv.to/assets/thumb/522e1f99534c43869e3403cd10d401d3-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Talavera vs. Real Madrid - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTINF:-1 tvg-id="ppv-15131" tvg-name="Talavera vs. Real Madrid" tvg-logo="https://api.ppv.to/assets/thumb/522e1f99534c43869e3403cd10d401d3-thumbnail.jpg" group-title="PPVLand - Live Now",Talavera vs. Real Madrid - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/cdr_talavera/index.m3u8
