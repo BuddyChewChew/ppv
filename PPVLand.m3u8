@@ -23,22 +23,6 @@ https://gg.poocloud.in/ashes/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ashes_fox/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15124" tvg-name="Los Angeles Kings vs. Florida Panthers" tvg-logo="https://api.ppv.to/assets/thumb/b0023d5f12d1a01262179c927f4eb79b-thumbnail.jpg" group-title="PPVLand - Live Now",Los Angeles Kings vs. Florida Panthers - 07:00 PM ET / 05:00 PM MT / 00:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/floridapanthers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15125" tvg-name="Utah Mammoth vs. Detroit Red Wings" tvg-logo="https://api.ppv.to/assets/thumb/dcf00b9bfebfd8feb251efb40b828626-thumbnail.jpg" group-title="PPVLand - Live Now",Utah Mammoth vs. Detroit Red Wings - 07:30 PM ET / 05:30 PM MT / 00:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/detroitredwings/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15123" tvg-name="Cleveland Cavaliers vs. Chicago Bulls" tvg-logo="https://api.ppv.to/assets/thumb/13c690ab603a7217b3e81cb4ba6ac4d9-thumbnail.jpg" group-title="PPVLand - Live Now",Cleveland Cavaliers vs. Chicago Bulls - 08:00 PM ET / 06:00 PM MT / 01:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/chicagobulls/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15126" tvg-name="Memphis Grizzlies vs. Minnesota Timberwolves" tvg-logo="https://api.ppv.to/assets/thumb/6249196c6656611a63c539ab5ef1c976-thumbnail.jpg" group-title="PPVLand - Live Now",Memphis Grizzlies vs. Minnesota Timberwolves - 08:00 PM ET / 06:00 PM MT / 01:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/minnesotatimberwolves/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15127" tvg-name="Winnipeg Jets vs. St. Louis Blues" tvg-logo="https://api.ppv.to/assets/thumb/caea7cccd52bea425b9f025834744975-thumbnail.jpg" group-title="PPVLand - Live Now",Winnipeg Jets vs. St. Louis Blues - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -51,7 +35,7 @@ https://gg.poocloud.in/nashvillepredators/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/wrestling/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15129" tvg-name="New Jersey Devils vs. Vegas Golden Knights" tvg-logo="https://api.ppv.to/assets/thumb/9a2835de0f127282ab2407a9d44721b2-thumbnail.jpg" group-title="PPVLand - NHL Action",New Jersey Devils vs. Vegas Golden Knights - 10:00 PM ET / 08:00 PM MT / 03:00 UK
+#EXTINF:-1 tvg-id="ppv-15129" tvg-name="New Jersey Devils vs. Vegas Golden Knights" tvg-logo="https://api.ppv.to/assets/thumb/9a2835de0f127282ab2407a9d44721b2-thumbnail.jpg" group-title="PPVLand - Live Now",New Jersey Devils vs. Vegas Golden Knights - 10:00 PM ET / 08:00 PM MT / 03:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/vegasgoldenknights/index.m3u8
