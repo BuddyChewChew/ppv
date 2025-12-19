@@ -31,14 +31,10 @@ https://gg.poocloud.in/bl_dor/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_val/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15121" tvg-name="Australia vs. England (TNT Broadcast)" tvg-logo="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" group-title="PPVLand - Cricket",Australia vs. England (TNT Broadcast) - 06:30 PM ET / 04:30 PM MT / 23:30 UK
+#EXTINF:-1 tvg-id="ppv-15121" tvg-name="Australia vs. England" tvg-logo="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" group-title="PPVLand - Cricket",Australia vs. England - 06:30 PM ET / 04:30 PM MT / 23:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ashes/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15135" tvg-name="Australia vs. England (FOX Broadcast)" tvg-logo="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" group-title="PPVLand - Cricket",Australia vs. England (FOX Broadcast) - 06:30 PM ET / 04:30 PM MT / 23:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ashes_fox/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15167" tvg-name="Miami Heat vs. Boston Celtics" tvg-logo="https://api.ppv.to/assets/thumb/819f5d3850abc87584298f0983b27bfe-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Miami Heat vs. Boston Celtics - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
