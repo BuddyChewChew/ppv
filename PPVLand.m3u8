@@ -23,22 +23,10 @@ https://gg.poocloud.in/ashes/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ashes_fox/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15156" tvg-name="New York Rangers vs. St. Louis Blues" tvg-logo="https://api.ppv.to/assets/thumb/ceb51466a677652e826408bd7f456c54-thumbnail.jpg" group-title="PPVLand - Live Now",New York Rangers vs. St. Louis Blues - 08:00 PM ET / 06:00 PM MT / 01:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/stlouisblues/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15054" tvg-name="TNA: Impact" tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="PPVLand - Live Now",TNA: Impact - 08:00 PM ET / 06:00 PM MT / 01:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15064" tvg-name="Los Angeles Rams vs. Seattle Seahawks" tvg-logo="https://api.ppv.to/assets/thumb/8cba672a633c05c2058d1dd5187ac272-thumbnail.jpg" group-title="PPVLand - Live Now",Los Angeles Rams vs. Seattle Seahawks - 08:15 PM ET / 06:15 PM MT / 01:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/seattleseahawks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15150" tvg-name="Detroit Pistons vs. Dallas Mavericks" tvg-logo="https://api.ppv.to/assets/thumb/5912fde332c1e4bc50624a0cc89616c1-thumbnail.jpg" group-title="PPVLand - Live Now",Detroit Pistons vs. Dallas Mavericks - 08:30 PM ET / 06:30 PM MT / 01:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/dallasmavericks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15152" tvg-name="Orlando Magic vs. Denver Nuggets" tvg-logo="https://api.ppv.to/assets/thumb/12f957a7e8c4976e02e8571da40e79f8-thumbnail.jpg" group-title="PPVLand - Live Now",Orlando Magic vs. Denver Nuggets - 09:00 PM ET / 07:00 PM MT / 02:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -75,6 +63,10 @@ https://gg.poocloud.in/bl_dor/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_val/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15163" tvg-name="#9 Alabama vs. #8 Oklahoma (First Round)" tvg-logo="https://api.ppv.to/assets/thumb/d1f77dfedc380287f45d295feb0887ae-thumbnail.jpg" group-title="PPVLand - NFL Action",#9 Alabama vs. #8 Oklahoma (First Round) - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ABC/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15134" tvg-name="Jake Paul vs. Anthony Joshua" tvg-logo="https://api.ppv.to/assets/thumb/77b3f7f092ac58125a60487f5073de40-thumbnail.jpg" group-title="PPVLand - Combat Sports",Jake Paul vs. Anthony Joshua - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -135,6 +127,10 @@ https://gg.poocloud.in/pl_wol/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_lev/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15164" tvg-name="#10 Miami vs. #7 Texas A&M (First Round)" tvg-logo="https://api.ppv.to/assets/thumb/c1082a8f004e08b337a68226f54c9a4e-thumbnail.jpg" group-title="PPVLand - NFL Action",#10 Miami vs. #7 Texas A&M (First Round) - 12:00 PM ET / 10:00 AM MT / 17:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ABC/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15034" tvg-name="Lazio vs. Cremonese" tvg-logo="https://api.ppv.to/assets/thumb/4178f22a2e6b41449b3cf3926d155219-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Lazio vs. Cremonese - 12:00 PM ET / 10:00 AM MT / 17:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -167,10 +163,18 @@ https://gg.poocloud.in/pl_eve/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pl_lee/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15165" tvg-name="#11 Tulane vs. #6 Ole Miss (First Round)" tvg-logo="https://api.ppv.to/assets/thumb/7201fd10de0cbf3ff13e6543cf0d8ae5-thumbnail.jpg" group-title="PPVLand - NFL Action",#11 Tulane vs. #6 Ole Miss (First Round) - 03:30 PM ET / 01:30 PM MT / 20:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/TNT/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15066" tvg-name="Philadelphia Eagles vs. Washington Commanders" tvg-logo="https://api.ppv.to/assets/thumb/27102a3353cda6be24a8a237c866a29d-thumbnail.jpg" group-title="PPVLand - NFL Action",Philadelphia Eagles vs. Washington Commanders - 05:00 PM ET / 03:00 PM MT / 22:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/washingtoncommanders/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15166" tvg-name="#12 JMU vs. #5 Oregon (First Round)" tvg-logo="https://api.ppv.to/assets/thumb/0f30030c22c80632ecbd59ce3e39bd24-thumbnail.jpg" group-title="PPVLand - NFL Action",#12 JMU vs. #5 Oregon (First Round) - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/TNT/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15056" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPVLand - Wrestling Events",AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
