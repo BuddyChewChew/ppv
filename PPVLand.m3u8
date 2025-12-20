@@ -79,6 +79,10 @@ https://gg.poocloud.in/ll_lev/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ABC/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15034" tvg-name="Lazio vs. Cremonese" tvg-logo="https://api.ppv.to/assets/thumb/4178f22a2e6b41449b3cf3926d155219-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Lazio vs. Cremonese - 12:00 PM ET / 10:00 AM MT / 17:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_laz/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15007" tvg-name="Osasuna vs. Alavés" tvg-logo="https://api.ppv.to/assets/thumb/17e80438cac0daf8e7dac6d2117bc09b-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Osasuna vs. Alavés - 12:30 PM ET / 10:30 AM MT / 17:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -95,6 +99,10 @@ https://gg.poocloud.in/pl_tot/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/newyorkrangers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15181" tvg-name="Detroit Red Wings vs. Washington Capitals" tvg-logo="https://api.ppv.to/assets/thumb/4ccddc7a435c75214832abe07ef44585-thumbnail.jpg" group-title="PPVLand - NHL Action",Detroit Red Wings vs. Washington Capitals - 12:30 PM ET / 10:30 AM MT / 17:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/washingtoncapitals/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15056" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPVLand - Wrestling Events",AEW: Saturday Night Collision - 02:30 PM ET / 12:30 PM MT / 19:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -131,10 +139,10 @@ https://gg.poocloud.in/TNT/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/washingtoncommanders/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15187" tvg-name="New York Islanders vs. Buffalo Sabres" tvg-logo="https://api.ppv.to/assets/thumb/b89a2f2245d5d0c00261ce6c139b33da-thumbnail.jpg" group-title="PPVLand - NHL Action",New York Islanders vs. Buffalo Sabres - 05:00 PM ET / 03:00 PM MT / 22:00 UK
+#EXTINF:-1 tvg-id="ppv-15179" tvg-name="Houston Rockets vs. Denver Nuggets" tvg-logo="https://api.ppv.to/assets/thumb/87c0047c26fb2eca97ac9d4831568807-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Houston Rockets vs. Denver Nuggets - 05:00 PM ET / 03:00 PM MT / 22:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/buffalosabres/index.m3u8
+https://gg.poocloud.in/denvernuggets/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15189" tvg-name="St. Louis Blues vs. Florida Panthers" tvg-logo="https://api.ppv.to/assets/thumb/f79fe7dcec912e93d8eef1088e9de5f5-thumbnail.jpg" group-title="PPVLand - NHL Action",St. Louis Blues vs. Florida Panthers - 06:00 PM ET / 04:00 PM MT / 23:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -171,6 +179,10 @@ https://gg.poocloud.in/tampabaylightning/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/nashvillepredators/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15166" tvg-name="#12 JMU vs. #5 Oregon (First Round)" tvg-logo="https://api.ppv.to/assets/thumb/0f30030c22c80632ecbd59ce3e39bd24-thumbnail.jpg" group-title="PPVLand - NFL Action",#12 JMU vs. #5 Oregon (First Round) - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/TNT/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15188" tvg-name="Charlotte Hornets vs. Detroit Pistons" tvg-logo="https://api.ppv.to/assets/thumb/8cd4a20d5b1a9d6218d55410058d3d0d-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Charlotte Hornets vs. Detroit Pistons - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -191,10 +203,6 @@ https://gg.poocloud.in/goldenstatewarriors/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/utahjazz/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15196" tvg-name="Portland Trail Blazers vs. Sacramento Kings" tvg-logo="https://api.ppv.to/assets/thumb/036a56e706bdcc9e1c0d44aa420e8bbf-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Portland Trail Blazers vs. Sacramento Kings - 10:00 PM ET / 08:00 PM MT / 03:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sacramentokings/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15199" tvg-name="Vegas Golden Knights vs. Calgary Flames" tvg-logo="https://api.ppv.to/assets/thumb/c71479dfb65ca1df822a15d2643ffadf-thumbnail.jpg" group-title="PPVLand - NHL Action",Vegas Golden Knights vs. Calgary Flames - 10:00 PM ET / 08:00 PM MT / 03:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -239,10 +247,10 @@ https://gg.poocloud.in/pl_avl/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_fio/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15011" tvg-name="Elche vs. Rayo Vallecano" tvg-logo="https://api.ppv.to/assets/thumb/283cea09e93cfcc8a5fe80705d3ce2ba-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Elche vs. Rayo Vallecano - 12:30 PM ET / 10:30 AM MT / 17:30 UK
+#EXTINF:-1 tvg-id="ppv-15072" tvg-name="Buffalo Bills vs. Cleveland Browns" tvg-logo="https://api.ppv.to/assets/thumb/4f6f9b2fcef428719b4dc1ec89a0da50-thumbnail.jpg" group-title="PPVLand - NFL Action",Buffalo Bills vs. Cleveland Browns - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_elc/index.m3u8
+https://gg.poocloud.in/clevelandbrowns/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15074" tvg-name="Los Angeles Chargers vs. Dallas Cowboys" tvg-logo="https://api.ppv.to/assets/thumb/fb8711c589b503ad2c7d1790e1b177e9-thumbnail.jpg" group-title="PPVLand - NFL Action",Los Angeles Chargers vs. Dallas Cowboys - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -283,10 +291,10 @@ https://gg.poocloud.in/detroitlions/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/houstontexans/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15087" tvg-name="New England Patriots vs. Baltimore Ravens" tvg-logo="https://api.ppv.to/assets/thumb/83b095f8d210cbe091657a71b43ead52-thumbnail.jpg" group-title="PPVLand - NFL Action",New England Patriots vs. Baltimore Ravens - 08:20 PM ET / 06:20 PM MT / 01:20 UK
+#EXTINF:-1 tvg-id="ppv-15013" tvg-name="Athletic Club vs. Espanyol" tvg-logo="https://api.ppv.to/assets/thumb/57f995fcead6b2148836731474875e9d-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Athletic Club vs. Espanyol - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/baltimoreravens/index.m3u8
+https://gg.poocloud.in/ll_ath/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15032" tvg-name="Fulham vs. Nottingham Forest" tvg-logo="https://api.ppv.to/assets/thumb/22be0401f51be0fa52c27270d50c91b7-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Fulham vs. Nottingham Forest - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
