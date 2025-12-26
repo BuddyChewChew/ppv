@@ -35,6 +35,10 @@ https://gg.poocloud.in/afcon/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pl_man/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15383" tvg-name="Australia vs. England" tvg-logo="https://api.ppv.to/assets/thumb/133beba7b8cbe3c0a88fb0faf7048588-thumbnail.jpg" group-title="PPVLand - Cricket",Australia vs. England - 06:30 PM ET / 04:30 PM MT / 23:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ashes_fox/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15391" tvg-name="Miami Heat vs. Atlanta Hawks" tvg-logo="https://api.ppv.to/assets/thumb/687c9e3ca6cd83ff5819cf8aa42c1daf-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Miami Heat vs. Atlanta Hawks - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -63,6 +67,10 @@ https://gg.poocloud.in/memphisgrizzlies/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/neworleanspelicans/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15331" tvg-name="WWE: Friday Night Smackdown" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="PPVLand - Wrestling Events",WWE: Friday Night Smackdown - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15399" tvg-name="Detroit Pistons vs. Utah Jazz" tvg-logo="https://api.ppv.to/assets/thumb/4c3d9df36efdb72aac3b7796c23d9f00-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Detroit Pistons vs. Utah Jazz - 09:30 PM ET / 07:30 PM MT / 02:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -71,10 +79,10 @@ https://gg.poocloud.in/utahjazz/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/portlandtrailblazers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15317" tvg-name="Parma vs. Fiorentina" tvg-logo="https://api.ppv.to/assets/thumb/002ff9b1c5b148746fcd15cae6c84d85-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Parma vs. Fiorentina - 06:30 AM ET / 04:30 AM MT / 11:30 UK
+#EXTINF:-1 tvg-id="ppv-14899" tvg-name="World Darts Championship" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="PPVLand - Darts",World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_par/index.m3u8
+https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15283" tvg-name="Benin vs. Botswana" tvg-logo="https://api.ppv.to/assets/thumb/a87a16fe03300966a32385adb147db34-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Benin vs. Botswana - 07:30 AM ET / 05:30 AM MT / 12:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -83,7 +91,15 @@ https://gg.poocloud.in/afcon/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pl_nfo/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15318" tvg-name="Lecce vs. Como" tvg-logo="https://api.ppv.to/assets/thumb/d3b9f1a79ec1df7e7bdbc501d223026b-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Lecce vs. Como - 09:00 AM ET / 07:00 AM MT / 14:00 UK
+#EXTINF:-1 tvg-id="ppv-15319" tvg-name="Torino vs. Cagliari" tvg-logo="https://api.ppv.to/assets/thumb/b56ce66b9e28f118b25a63409a351c41-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Torino vs. Cagliari - 09:00 AM ET / 07:00 AM MT / 14:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_lec/index.m3u8
+https://gg.poocloud.in/sa_tor/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15284" tvg-name="Senegal vs. Congo DR" tvg-logo="https://api.ppv.to/assets/thumb/c4ac43aa4405c3e85e1bd0daa562fe2d-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Senegal vs. Congo DR - 10:00 AM ET / 08:00 AM MT / 15:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/afcon/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15309" tvg-name="Arsenal vs. Brighton & Hove Albion" tvg-logo="https://api.ppv.to/assets/thumb/314103ff84388e79ab57b61c4f8e5e98-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Arsenal vs. Brighton & Hove Albion - 10:00 AM ET / 08:00 AM MT / 15:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pl_ars/index.m3u8
