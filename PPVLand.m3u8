@@ -63,10 +63,10 @@ https://gg.poocloud.in/tampabaylightning/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/philadelphiaflyers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15846" tvg-name="Dallas Stars vs. Carolina Hurricanes" tvg-logo="https://api.ppv.to/assets/thumb/896b986650c837df082135bd2f7ce7ef-thumbnail.jpg" group-title="PPVLand - NHL Action",Dallas Stars vs. Carolina Hurricanes - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTINF:-1 tvg-id="ppv-15848" tvg-name="New Jersey Devils vs. New York Islanders" tvg-logo="https://api.ppv.to/assets/thumb/aacedf45b8108689bc687648c3cb4ccf-thumbnail.jpg" group-title="PPVLand - NHL Action",New Jersey Devils vs. New York Islanders - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/carolinahurricanes/index.m3u8
+https://gg.poocloud.in/newyorkislanders/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15850" tvg-name="Florida Panthers vs. Toronto Maple Leafs" tvg-logo="https://api.ppv.to/assets/thumb/eaae3b8f4a62cde7ae9416ca88a2cfd4-thumbnail.jpg" group-title="PPVLand - NHL Action",Florida Panthers vs. Toronto Maple Leafs - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -75,10 +75,10 @@ https://gg.poocloud.in/torontomapleleafs/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/memphisgrizzlies/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15845" tvg-name="Miami Heat vs. Minnesota Timberwolves" tvg-logo="https://api.ppv.to/assets/thumb/df6617cf8caa5fc0e28070f3c3794716-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Miami Heat vs. Minnesota Timberwolves - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTINF:-1 tvg-id="ppv-15847" tvg-name="Los Angeles Lakers vs. New Orleans Pelicans" tvg-logo="https://api.ppv.to/assets/thumb/0e445d9235380f4b785e9a164a93f749-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Los Angeles Lakers vs. New Orleans Pelicans - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/minnesotatimberwolves/index.m3u8
+https://gg.poocloud.in/neworleanspelicans/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15852" tvg-name="Vegas Golden Knights vs. Winnipeg Jets" tvg-logo="https://api.ppv.to/assets/thumb/262f2ab855a24702ea4989a1995f2ff9-thumbnail.jpg" group-title="PPVLand - NHL Action",Vegas Golden Knights vs. Winnipeg Jets - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -87,10 +87,10 @@ https://gg.poocloud.in/winnipegjets/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/wrestling/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15853" tvg-name="Nashville Predators vs. Edmonton Oilers" tvg-logo="https://api.ppv.to/assets/thumb/6edd717365754f9a057c2c9c1b0d2aa0-thumbnail.jpg" group-title="PPVLand - NHL Action",Nashville Predators vs. Edmonton Oilers - 09:00 PM ET / 07:00 PM MT / 02:00 UK
+#EXTINF:-1 tvg-id="ppv-15785" tvg-name="Levante vs. Espanyol" tvg-logo="https://api.ppv.to/assets/thumb/5a76503000f0a087df7446f9a78c266e-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Levante vs. Espanyol - 10:15 AM ET / 08:15 AM MT / 15:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/edmontonoilers/index.m3u8
+https://gg.poocloud.in/ll_lev/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15795" tvg-name="Bayern Munich vs. VfL Wolfsburg" tvg-logo="https://api.ppv.to/assets/thumb/bf18c32b6af32d2fe02fc31eca366670-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Bayern Munich vs. VfL Wolfsburg - 11:30 AM ET / 09:30 AM MT / 16:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
