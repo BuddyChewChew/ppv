@@ -23,7 +23,7 @@ https://gg.poocloud.in/sa_bol/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_nap/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15894" tvg-name="Barcelona vs. Athletic Club" tvg-logo="https://api.ppv.to/assets/thumb/ae74949e4deac35de85a36df9e3359c6-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Barcelona vs. Athletic Club - 02:00 PM ET / 12:00 PM MT / 19:00 UK
+#EXTINF:-1 tvg-id="ppv-15894" tvg-name="Barcelona vs. Athletic Club" tvg-logo="https://api.ppv.to/assets/thumb/ae74949e4deac35de85a36df9e3359c6-thumbnail.jpg" group-title="PPVLand - Live Now",Barcelona vs. Athletic Club - 02:00 PM ET / 12:00 PM MT / 19:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_bar/index.m3u8
@@ -71,10 +71,6 @@ https://gg.poocloud.in/sa_tor/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pl_bur/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15804" tvg-name="Newcastle United vs. Leeds United" tvg-logo="https://api.ppv.to/assets/thumb/33042061323a1b4ffccbe47f18185324-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Newcastle United vs. Leeds United - 03:15 PM ET / 01:15 PM MT / 20:15 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/pl_new/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15876" tvg-name="Toronto Raptors vs. Charlotte Hornets" tvg-logo="https://api.ppv.to/assets/thumb/1e4649c27da9e26d332f60426e728164-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Toronto Raptors vs. Charlotte Hornets - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -99,10 +95,6 @@ https://gg.poocloud.in/washingtoncapitals/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/atlantahawks/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15886" tvg-name="Orlando Magic vs. Brooklyn Nets" tvg-logo="https://api.ppv.to/assets/thumb/4320d4c48177ca5bb93ae1ff45327cdc-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Orlando Magic vs. Brooklyn Nets - 07:30 PM ET / 05:30 PM MT / 00:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/brooklynnets/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15887" tvg-name="LA Clippers vs. New York Knicks" tvg-logo="https://api.ppv.to/assets/thumb/81c7fb464f6db6614ae45e849314c4f4-thumbnail.jpg" group-title="PPVLand - Basketball Hub",LA Clippers vs. New York Knicks - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -195,10 +187,10 @@ https://gg.poocloud.in/bl_scf/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bl_stp/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15778" tvg-name="Villarreal vs. Alavés" tvg-logo="https://api.ppv.to/assets/thumb/0eb6546291404059ed737dd18e392c03-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Villarreal vs. Alavés - 10:15 AM ET / 08:15 AM MT / 15:15 UK
+#EXTINF:-1 tvg-id="ppv-15792" tvg-name="Werder Bremen vs. TSG Hoffenheim" tvg-logo="https://api.ppv.to/assets/thumb/e7b1c6b8cc0da4539ef4e58d7aff19c5-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Werder Bremen vs. TSG Hoffenheim - 09:30 AM ET / 07:30 AM MT / 14:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_vil/index.m3u8
+https://gg.poocloud.in/bl_svw/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15818" tvg-name="AS Roma vs. Sassuolo" tvg-logo="https://api.ppv.to/assets/thumb/0ab8cceafbe96c0b3b67c1d5ae3b6a9e-thumbnail.jpg" group-title="PPVLand - Global Football Streams",AS Roma vs. Sassuolo - 12:00 PM ET / 10:00 AM MT / 17:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -211,10 +203,10 @@ https://gg.poocloud.in/ll_gir/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bl_b04/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15819" tvg-name="Atalanta vs. Torino" tvg-logo="https://api.ppv.to/assets/thumb/1be4869ae1706bd4e51f28a31534ff1f-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Atalanta vs. Torino - 02:45 PM ET / 12:45 PM MT / 19:45 UK
+#EXTINF:-1 tvg-id="ppv-15856" tvg-name="Supercross: Anaheim" tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="PPVLand - Racing Action",Supercross: Anaheim - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_ata/index.m3u8
+https://gg.poocloud.in/smx/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15783" tvg-name="Valencia vs. Elche" tvg-logo="https://api.ppv.to/assets/thumb/8e706351e2f3f999d1fd8fe5ceef1e59-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Valencia vs. Elche - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -227,10 +219,10 @@ https://gg.poocloud.in/carolinapanthers/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/chicagobears/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15820" tvg-name="Lecce vs. Parma" tvg-logo="https://api.ppv.to/assets/thumb/f458d5351ab28a18d4ca4cd60eca8060-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Lecce vs. Parma - 06:30 AM ET / 04:30 AM MT / 11:30 UK
+#EXTINF:-1 tvg-id="ppv-15831" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPVLand - Wrestling Events",AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_lec/index.m3u8
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15784" tvg-name="Rayo Vallecano vs. Mallorca" tvg-logo="https://api.ppv.to/assets/thumb/f0b268ac94624cc050da5d1310ab2b24-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Rayo Vallecano vs. Mallorca - 08:00 AM ET / 06:00 AM MT / 13:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -239,14 +231,14 @@ https://gg.poocloud.in/ll_ray/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_fio/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15794" tvg-name="Borussia Mönchengladbach vs. FC Augsburg" tvg-logo="https://api.ppv.to/assets/thumb/0cd0255d9dd0d82070cf00fd4e2cf4c7-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Borussia Mönchengladbach vs. FC Augsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/bl_bmg/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15785" tvg-name="Levante vs. Espanyol" tvg-logo="https://api.ppv.to/assets/thumb/5a76503000f0a087df7446f9a78c266e-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Levante vs. Espanyol - 10:15 AM ET / 08:15 AM MT / 15:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_lev/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15795" tvg-name="Bayern Munich vs. VfL Wolfsburg" tvg-logo="https://api.ppv.to/assets/thumb/bf18c32b6af32d2fe02fc31eca366670-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Bayern Munich vs. VfL Wolfsburg - 11:30 AM ET / 09:30 AM MT / 16:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/bl_mun/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15822" tvg-name="Hellas Verona vs. Lazio" tvg-logo="https://api.ppv.to/assets/thumb/3d0b3c2598ecf8609219d66012d1d8cc-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Hellas Verona vs. Lazio - 12:00 PM ET / 10:00 AM MT / 17:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -255,14 +247,14 @@ https://gg.poocloud.in/sa_ver/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15823" tvg-name="Internazionale vs. Napoli" tvg-logo="https://api.ppv.to/assets/thumb/b889e8650650c0dacda108f82d609681-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Internazionale vs. Napoli - 02:45 PM ET / 12:45 PM MT / 19:45 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_int/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15872" tvg-name="San Francisco 49ers vs. Philadelphia Eagles" tvg-logo="https://api.ppv.to/assets/thumb/423f6485debd0888a42c8bc00460dc22-thumbnail.jpg" group-title="PPVLand - NFL Action",San Francisco 49ers vs. Philadelphia Eagles - 04:30 PM ET / 02:30 PM MT / 21:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/philadelphiaeagles/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15873" tvg-name="Los Angeles Chargers vs. New England Patriots" tvg-logo="https://api.ppv.to/assets/thumb/363cd85b1d74fd7362c97609b59bb6d9-thumbnail.jpg" group-title="PPVLand - NFL Action",Los Angeles Chargers vs. New England Patriots - 08:00 PM ET / 06:00 PM MT / 01:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/newenglandpatriots/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15824" tvg-name="Genoa vs. Cagliari" tvg-logo="https://api.ppv.to/assets/thumb/e225ea803afed2683386dcff9558f9ed-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Genoa vs. Cagliari - 12:30 PM ET / 10:30 AM MT / 17:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -271,10 +263,10 @@ https://gg.poocloud.in/sa_gen/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_juv/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15874" tvg-name="Houston Texans vs. Pittsburgh Steelers" tvg-logo="https://api.ppv.to/assets/thumb/5ac294f4f28fb24415e498e035e678ac-thumbnail.jpg" group-title="PPVLand - NFL Action",Houston Texans vs. Pittsburgh Steelers - 08:15 PM ET / 06:15 PM MT / 01:15 UK
+#EXTINF:-1 tvg-id="ppv-15786" tvg-name="Sevilla vs. Celta Vigo" tvg-logo="https://api.ppv.to/assets/thumb/6bc8eff293d4a87318fb3af3bba8b904-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Sevilla vs. Celta Vigo - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/pittsburghsteelers/index.m3u8
+https://gg.poocloud.in/ll_sev/index.m3u8
 #EXTINF:-1 tvg-id="ppv-14284" tvg-name="UFC 324: Gaethje vs. Pimblett" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg" group-title="PPVLand - Combat Sports",UFC 324: Gaethje vs. Pimblett - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
