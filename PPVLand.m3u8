@@ -143,10 +143,10 @@ https://gg.poocloud.in/montrealcanadiens/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ottawasenators/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15978" tvg-name="Tampa Bay Lightning vs. Philadelphia Flyers" tvg-logo="https://api.ppv.to/assets/thumb/a9f76c813844291b34cb0d94381004f8-thumbnail.jpg" group-title="PPVLand - NHL Action",Tampa Bay Lightning vs. Philadelphia Flyers - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTINF:-1 tvg-id="ppv-15979" tvg-name="Seattle Kraken vs. Carolina Hurricanes" tvg-logo="https://api.ppv.to/assets/thumb/3f066b457d247eb3bdd538c2ccbe257b-thumbnail.jpg" group-title="PPVLand - NHL Action",Seattle Kraken vs. Carolina Hurricanes - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/philadelphiaflyers/index.m3u8
+https://gg.poocloud.in/carolinahurricanes/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15968" tvg-name="LA Clippers vs. Detroit Pistons" tvg-logo="https://api.ppv.to/assets/thumb/1ed620820ef9c254ae7f2f98458128f3-thumbnail.jpg" group-title="PPVLand - Basketball Hub",LA Clippers vs. Detroit Pistons - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -247,3 +247,7 @@ https://gg.poocloud.in/ll_sev/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pittsburghsteelers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14284" tvg-name="UFC 324: Gaethje vs. Pimblett" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg" group-title="PPVLand - Combat Sports",UFC 324: Gaethje vs. Pimblett - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ufc/index.m3u8
