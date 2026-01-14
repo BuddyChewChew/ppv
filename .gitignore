@@ -1,0 +1,20 @@
+# Python environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Playwright & Browser data
+.auth/
+user_data/
+test-results/
+
+# Debugging Screenshots
+# (These will still be uploaded to GitHub Action Artifacts, 
+# but they won't fill up your repo history)
+debug/
+
+# OS files
+.DS_Store
+Thumbs.db
